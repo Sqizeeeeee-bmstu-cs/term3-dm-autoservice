@@ -1,0 +1,17 @@
+
+.DS_Store
+
+.dbeaver-data-sources.xml
+.dbeaver-tmp/
+.metadata/
+credentials-config.json
+
+backups/*
+!backups/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/

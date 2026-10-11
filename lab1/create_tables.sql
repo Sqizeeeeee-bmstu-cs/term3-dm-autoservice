@@ -1,5 +1,6 @@
 PRAGMA foreign_keys = ON;
 
+DROP TABLE IF EXISTS Status_Change;
 DROP TABLE IF EXISTS Part_Position;
 DROP TABLE IF EXISTS Order_Service;
 DROP TABLE IF EXISTS Work_Order;
@@ -16,14 +17,18 @@ DROP TABLE IF EXISTS Administrator;
 -- Administrator
 CREATE TABLE Administrator (
     admin_id INTEGER NOT NULL,
-    fio TEXT NOT NULL,
+    last_name TEXT NOT NULL,
+    first_name TEXT NOT NULL,
+    middle_name TEXT,
     CONSTRAINT Administrator_PK PRIMARY KEY (admin_id)
 );
 
 -- Master
 CREATE TABLE Master (
     master_id INTEGER NOT NULL,
-    fio TEXT NOT NULL,
+    last_name TEXT NOT NULL,
+    first_name TEXT NOT NULL,
+    middle_name TEXT,
     CONSTRAINT Master_PK PRIMARY KEY (master_id)
 );
 
@@ -38,7 +43,9 @@ CREATE TABLE Service (
 -- Client
 CREATE TABLE Client (
     client_id INTEGER NOT NULL,
-    fio TEXT NOT NULL,
+    last_name TEXT NOT NULL,
+    first_name TEXT NOT NULL,
+    middle_name TEXT,
     CONSTRAINT Client_PK PRIMARY KEY (client_id)
 );
 
@@ -112,9 +119,15 @@ CREATE TABLE Work_Order (
     master_id INTEGER NOT NULL,
     status TEXT NOT NULL DEFAULT 'в работе'
         CHECK (status IN ('в работе', 'ожидает запчасти', 'готов', 'выдан', 'отменён')),
-    order_date TEXT NOT NULL DEFAULT (date('now')),
+    start_date TEXT NOT NULL DEFAULT (date('now')),
+    planned_date TEXT,
+    end_date TEXT,
     malfunction TEXT,
     CONSTRAINT Work_Order_PK PRIMARY KEY (order_number),
+    CONSTRAINT Work_Order_Dates_CK CHECK (
+        (planned_date IS NULL OR planned_date >= start_date)
+        AND (end_date IS NULL OR end_date >= start_date)
+    ),
     CONSTRAINT Work_Order_Automobile_FK FOREIGN KEY (vin)
         REFERENCES Automobile (vin)
         ON DELETE RESTRICT
@@ -126,6 +139,20 @@ CREATE TABLE Work_Order (
     CONSTRAINT Work_Order_Master_FK FOREIGN KEY (master_id)
         REFERENCES Master (master_id)
         ON DELETE RESTRICT
+        ON UPDATE CASCADE
+);
+
+-- Status_Change
+CREATE TABLE Status_Change (
+    change_id INTEGER NOT NULL,
+    order_number INTEGER NOT NULL,
+    status TEXT NOT NULL
+        CHECK (status IN ('в работе', 'ожидает запчасти', 'готов', 'выдан', 'отменён')),
+    changed_at TEXT NOT NULL DEFAULT (datetime('now')),
+    CONSTRAINT Status_Change_PK PRIMARY KEY (change_id),
+    CONSTRAINT Status_Change_Order_FK FOREIGN KEY (order_number)
+        REFERENCES Work_Order (order_number)
+        ON DELETE CASCADE
         ON UPDATE CASCADE
 );
 

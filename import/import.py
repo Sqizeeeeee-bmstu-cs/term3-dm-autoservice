@@ -12,9 +12,9 @@ import json
 import sys
 from pathlib import Path
 
-from sqlalchemy import Table, MetaData, create_engine, event, inspect, Integer, Float
+from sqlalchemy import Float, Integer, MetaData, Table, create_engine, event, inspect
 from sqlalchemy.engine import Engine
-from sqlalchemy.exc import SQLAlchemyError, IntegrityError
+from sqlalchemy.exc import IntegrityError, SQLAlchemyError
 
 ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_DB = ROOT / "db" / "autoservice.sqlite"

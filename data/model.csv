@@ -1,0 +1,39 @@
+model_id,brand,model_name
+1,BMW,5 Series E34
+2,BMW,3 Series E46
+3,BMW,5 Series E60
+4,BMW,5 Series F10
+5,BMW,M5 F90
+6,BMW,5 Series G30
+7,BMW,M5 G90
+8,BMW,2 Series G42
+9,BMW,3 Series E90
+10,BMW,3 Series G20
+11,BMW,M3 G80
+12,BMW,M4 G82
+13,BMW,M4 F82
+14,Mercedes-Benz,E-Class W212
+15,Mercedes-Benz,E-Class W213
+16,Mercedes-Benz,S-Class W221
+17,Mercedes-Benz,S-Class W222
+18,Mercedes-Benz,S-Class W223
+19,Mercedes-Benz,GLE Coupe C292
+20,Mercedes-Benz,C-Class W205
+21,Mercedes-Benz,C-Class W206
+22,Audi,A6 C7
+23,Audi,A6 C8
+24,Audi,A4 B6
+25,Audi,A4 B7
+26,Audi,A4 B8
+27,Audi,A4 B9
+28,Porsche,911 (991) Carrera
+29,Porsche,911 (991) Carrera GTS
+30,Porsche,911 (991) Targa
+31,Porsche,911 (991) Targa S
+32,Porsche,911 (991) Turbo S
+33,Porsche,911 (991) GT3 RS
+34,Porsche,911 (991) GT2 RS
+35,Porsche,911 (992) Carrera
+36,Porsche,911 (992) Targa
+37,Porsche,911 (992) Turbo S
+38,Porsche,911 (992) GT3 RS

@@ -1,0 +1,1892 @@
+[
+  {
+    "vin": "WBSWVP8X3JJ584419",
+    "gos_number": "У557ОО 750",
+    "client_id": 1,
+    "model_id": 5
+  },
+  {
+    "vin": "WP0CVFZ5XGN473384",
+    "gos_number": "С713МЕ 177",
+    "client_id": 1,
+    "model_id": 30
+  },
+  {
+    "vin": "WDDDRRDG5GF571208",
+    "gos_number": "Е417УР 16",
+    "client_id": 2,
+    "model_id": 17
+  },
+  {
+    "vin": "WAUVDFRC42B620672",
+    "gos_number": "Х986МА 77",
+    "client_id": 4,
+    "model_id": 24
+  },
+  {
+    "vin": "WBAYV68J3KJ431527",
+    "gos_number": "У264ХЕ 77",
+    "client_id": 5,
+    "model_id": 10
+  },
+  {
+    "vin": "WAUNM24984C161227",
+    "gos_number": "Н959КА 197",
+    "client_id": 5,
+    "model_id": 24
+  },
+  {
+    "vin": "WDDYWAT03PK301742",
+    "gos_number": "О703СХ 150",
+    "client_id": 6,
+    "model_id": 21
+  },
+  {
+    "vin": "WAU0RRJ79KB795687",
+    "gos_number": "С822УК 199",
+    "client_id": 6,
+    "model_id": 27
+  },
+  {
+    "vin": "WAU50EHD28G883982",
+    "gos_number": "Е336СР 177",
+    "client_id": 7,
+    "model_id": 26
+  },
+  {
+    "vin": "WAU8F95D7RD286790",
+    "gos_number": "С474УМ 77",
+    "client_id": 7,
+    "model_id": 27
+  },
+  {
+    "vin": "WDDEC4ZE9CJ017046",
+    "gos_number": "Е788ЕУ 23",
+    "client_id": 8,
+    "model_id": 14
+  },
+  {
+    "vin": "WDD11FJZ3MA286823",
+    "gos_number": "А775АМ 52",
+    "client_id": 9,
+    "model_id": 20
+  },
+  {
+    "vin": "WAU1RS6Z4DB431069",
+    "gos_number": "А247КВ 177",
+    "client_id": 9,
+    "model_id": 26
+  },
+  {
+    "vin": "WDDDSC259SB830284",
+    "gos_number": "К836ХТ 90",
+    "client_id": 10,
+    "model_id": 21
+  },
+  {
+    "vin": "WDCWKR3W7GC089268",
+    "gos_number": "Р049НУ 178",
+    "client_id": 11,
+    "model_id": 19
+  },
+  {
+    "vin": "WAU33KW165B873342",
+    "gos_number": "Р937АС 23",
+    "client_id": 11,
+    "model_id": 24
+  },
+  {
+    "vin": "WP0J1STP5RL175183",
+    "gos_number": "А275ОУ 77",
+    "client_id": 12,
+    "model_id": 36
+  },
+  {
+    "vin": "WAU7PYWA6MB317393",
+    "gos_number": "О938КС 90",
+    "client_id": 12,
+    "model_id": 23
+  },
+  {
+    "vin": "WAUZWT0997D717535",
+    "gos_number": "Н424АТ 99",
+    "client_id": 13,
+    "model_id": 25
+  },
+  {
+    "vin": "WAU3VKNY2FB693785",
+    "gos_number": "М782РХ 116",
+    "client_id": 14,
+    "model_id": 22
+  },
+  {
+    "vin": "WDCJ8MDC3GL100623",
+    "gos_number": "В725ЕА 97",
+    "client_id": 14,
+    "model_id": 19
+  },
+  {
+    "vin": "WDC78BA3XFA084840",
+    "gos_number": "С833ХУ 93",
+    "client_id": 16,
+    "model_id": 19
+  },
+  {
+    "vin": "WAUGKSNTXKG546156",
+    "gos_number": "Р579КХ 99",
+    "client_id": 17,
+    "model_id": 23
+  },
+  {
+    "vin": "WBAF21178WA021765",
+    "gos_number": "Т879ВС 77",
+    "client_id": 17,
+    "model_id": 2
+  },
+  {
+    "vin": "WBS7UCEU0SA250392",
+    "gos_number": "Х841ОВ 150",
+    "client_id": 18,
+    "model_id": 12
+  },
+  {
+    "vin": "WBA1Y1JF2EG016315",
+    "gos_number": "Т788ТТ 47",
+    "client_id": 18,
+    "model_id": 4
+  },
+  {
+    "vin": "WP0U58RZ1FN662961",
+    "gos_number": "Т303КХ 77",
+    "client_id": 19,
+    "model_id": 33
+  },
+  {
+    "vin": "WBAK1X0G89C047541",
+    "gos_number": "Е090ЕО 163",
+    "client_id": 19,
+    "model_id": 3
+  },
+  {
+    "vin": "WDDBFZFX9FL604661",
+    "gos_number": "Х923СК 66",
+    "client_id": 20,
+    "model_id": 20
+  },
+  {
+    "vin": "WBSJUWU89RD126464",
+    "gos_number": "Р802ВН 197",
+    "client_id": 20,
+    "model_id": 7
+  },
+  {
+    "vin": "WP0N6GJW4SS659657",
+    "gos_number": "Н441УТ 177",
+    "client_id": 21,
+    "model_id": 38
+  },
+  {
+    "vin": "WBA7XM2X3MF793564",
+    "gos_number": "О374ВТ 97",
+    "client_id": 22,
+    "model_id": 10
+  },
+  {
+    "vin": "WDDB6P5V5DL167243",
+    "gos_number": "М675ЕХ 93",
+    "client_id": 23,
+    "model_id": 16
+  },
+  {
+    "vin": "WAU7293C6JG589113",
+    "gos_number": "У681НЕ 77",
+    "client_id": 23,
+    "model_id": 22
+  },
+  {
+    "vin": "WDD4GAGT2KB888993",
+    "gos_number": "Р384ОР 72",
+    "client_id": 24,
+    "model_id": 20
+  },
+  {
+    "vin": "WBAGV3FH4SD545738",
+    "gos_number": "Р357РВ 163",
+    "client_id": 24,
+    "model_id": 1
+  },
+  {
+    "vin": "WAUEWCHB06G512382",
+    "gos_number": "С164НС 93",
+    "client_id": 24,
+    "model_id": 25
+  },
+  {
+    "vin": "WP0MM42B1HN937966",
+    "gos_number": "А722КК 799",
+    "client_id": 25,
+    "model_id": 31
+  },
+  {
+    "vin": "WAUM0XN69CA478596",
+    "gos_number": "Т402ТВ 750",
+    "client_id": 25,
+    "model_id": 22
+  },
+  {
+    "vin": "WDDMWFJX7SA341252",
+    "gos_number": "С398ОТ 177",
+    "client_id": 26,
+    "model_id": 21
+  },
+  {
+    "vin": "WDD8ML8V6GB257905",
+    "gos_number": "А497ЕК 178",
+    "client_id": 26,
+    "model_id": 20
+  },
+  {
+    "vin": "WP0838351SL219034",
+    "gos_number": "А282КС 50",
+    "client_id": 27,
+    "model_id": 36
+  },
+  {
+    "vin": "WBA89HHU2SG807836",
+    "gos_number": "В754УК 150",
+    "client_id": 28,
+    "model_id": 8
+  },
+  {
+    "vin": "WAUTZF5H6JG339596",
+    "gos_number": "Е631ЕК 97",
+    "client_id": 29,
+    "model_id": 22
+  },
+  {
+    "vin": "WAUULXVV3CE481260",
+    "gos_number": "М888УЕ 177",
+    "client_id": 29,
+    "model_id": 26
+  },
+  {
+    "vin": "WBSS28KU7PH671168",
+    "gos_number": "Х285ХН 52",
+    "client_id": 30,
+    "model_id": 12
+  },
+  {
+    "vin": "WP0AF6ZE5KN636374",
+    "gos_number": "Н849МН 177",
+    "client_id": 31,
+    "model_id": 33
+  },
+  {
+    "vin": "WDDDCG6B8PA277063",
+    "gos_number": "Х932ЕУ 150",
+    "client_id": 31,
+    "model_id": 21
+  },
+  {
+    "vin": "WBS0TF0L5HA643611",
+    "gos_number": "А219РВ 177",
+    "client_id": 32,
+    "model_id": 5
+  },
+  {
+    "vin": "WDDAYH4J8MF136111",
+    "gos_number": "Н377МЕ 178",
+    "client_id": 33,
+    "model_id": 21
+  },
+  {
+    "vin": "WAUEAL5Z0LF326973",
+    "gos_number": "В919ВЕ 177",
+    "client_id": 34,
+    "model_id": 23
+  },
+  {
+    "vin": "WDD4XJSU1KK138999",
+    "gos_number": "М798ХА 150",
+    "client_id": 34,
+    "model_id": 20
+  },
+  {
+    "vin": "WBA2VDS82MH137918",
+    "gos_number": "А370НЕ 178",
+    "client_id": 34,
+    "model_id": 10
+  },
+  {
+    "vin": "WAU0M7EB8DE104300",
+    "gos_number": "О519МУ 72",
+    "client_id": 36,
+    "model_id": 26
+  },
+  {
+    "vin": "WAUFKUFW87A832856",
+    "gos_number": "Т650УУ 77",
+    "client_id": 36,
+    "model_id": 25
+  },
+  {
+    "vin": "WBSDSF4H9RJ990421",
+    "gos_number": "А725ЕХ 77",
+    "client_id": 37,
+    "model_id": 7
+  },
+  {
+    "vin": "WBAL0JUH2LA564814",
+    "gos_number": "Х999ТУ 77",
+    "client_id": 37,
+    "model_id": 6
+  },
+  {
+    "vin": "WDC8L0LTXFL191380",
+    "gos_number": "А880АК 77",
+    "client_id": 38,
+    "model_id": 19
+  },
+  {
+    "vin": "WDDMC3RX1GB654195",
+    "gos_number": "В515УА 777",
+    "client_id": 38,
+    "model_id": 20
+  },
+  {
+    "vin": "WBA2E6VW25G187053",
+    "gos_number": "М578МХ 199",
+    "client_id": 39,
+    "model_id": 9
+  },
+  {
+    "vin": "WDDSKA3B7NB850506",
+    "gos_number": "Х745МВ 97",
+    "client_id": 39,
+    "model_id": 21
+  },
+  {
+    "vin": "WDD8DKUF2KA386571",
+    "gos_number": "Т098СЕ 47",
+    "client_id": 39,
+    "model_id": 17
+  },
+  {
+    "vin": "WBA4JSVT5JG655743",
+    "gos_number": "В967КЕ 177",
+    "client_id": 40,
+    "model_id": 10
+  },
+  {
+    "vin": "WBA6X3HZ1AE747411",
+    "gos_number": "Е827УМ 77",
+    "client_id": 41,
+    "model_id": 3
+  },
+  {
+    "vin": "WBAFSZ298JA442067",
+    "gos_number": "С767СК 177",
+    "client_id": 42,
+    "model_id": 6
+  },
+  {
+    "vin": "WDDADRJN86L651994",
+    "gos_number": "В023ВК 163",
+    "client_id": 42,
+    "model_id": 16
+  },
+  {
+    "vin": "WAUHC6DL4GE667066",
+    "gos_number": "Е363КЕ 799",
+    "client_id": 42,
+    "model_id": 22
+  },
+  {
+    "vin": "WBASV83773A146263",
+    "gos_number": "У906СК 196",
+    "client_id": 43,
+    "model_id": 3
+  },
+  {
+    "vin": "WAU78Z9X06D420593",
+    "gos_number": "А918МА 16",
+    "client_id": 44,
+    "model_id": 25
+  },
+  {
+    "vin": "WDDGSSUD3FL396522",
+    "gos_number": "К607НХ 750",
+    "client_id": 44,
+    "model_id": 17
+  },
+  {
+    "vin": "WP0KN8WM0GL010393",
+    "gos_number": "А540РА 190",
+    "client_id": 44,
+    "model_id": 28
+  },
+  {
+    "vin": "WP0YMXDB5FS921851",
+    "gos_number": "Н722УО 177",
+    "client_id": 45,
+    "model_id": 31
+  },
+  {
+    "vin": "WBAL48XM8JG392644",
+    "gos_number": "Е182ХА 47",
+    "client_id": 45,
+    "model_id": 6
+  },
+  {
+    "vin": "WAUMXRG847B513552",
+    "gos_number": "У907ВХ 190",
+    "client_id": 47,
+    "model_id": 26
+  },
+  {
+    "vin": "WDDSEZTG2MK006762",
+    "gos_number": "О505ОН 196",
+    "client_id": 47,
+    "model_id": 18
+  },
+  {
+    "vin": "WDDRL5EC2SC054115",
+    "gos_number": "Е910ОЕ 77",
+    "client_id": 48,
+    "model_id": 21
+  },
+  {
+    "vin": "WDD7B4L49MB015336",
+    "gos_number": "Х568ХХ 196",
+    "client_id": 48,
+    "model_id": 15
+  },
+  {
+    "vin": "WBSSGD284KD050614",
+    "gos_number": "У641ТР 97",
+    "client_id": 49,
+    "model_id": 5
+  },
+  {
+    "vin": "WBAVF7HW7BH774186",
+    "gos_number": "Е380ОН 777",
+    "client_id": 49,
+    "model_id": 4
+  },
+  {
+    "vin": "WDD6TRUD6PB115869",
+    "gos_number": "К567АО 66",
+    "client_id": 50,
+    "model_id": 18
+  },
+  {
+    "vin": "WDDS7WF24SL089899",
+    "gos_number": "Е124РЕ 777",
+    "client_id": 50,
+    "model_id": 21
+  },
+  {
+    "vin": "WP0C4F4N4FN294511",
+    "gos_number": "О570ОС 90",
+    "client_id": 50,
+    "model_id": 31
+  },
+  {
+    "vin": "WAUA3H3K9EB999119",
+    "gos_number": "В805МС 750",
+    "client_id": 51,
+    "model_id": 26
+  },
+  {
+    "vin": "WAU87CMU53D299606",
+    "gos_number": "Н708КА 16",
+    "client_id": 51,
+    "model_id": 24
+  },
+  {
+    "vin": "WP0YWWU83FN132475",
+    "gos_number": "М747ОТ 77",
+    "client_id": 52,
+    "model_id": 33
+  },
+  {
+    "vin": "WBA380D97GD148628",
+    "gos_number": "Т030ЕК 97",
+    "client_id": 52,
+    "model_id": 4
+  },
+  {
+    "vin": "WAU6D0NU4JC786103",
+    "gos_number": "Н501ТР 777",
+    "client_id": 53,
+    "model_id": 23
+  },
+  {
+    "vin": "WP0ZZLTFXPL060293",
+    "gos_number": "К663КУ 97",
+    "client_id": 54,
+    "model_id": 35
+  },
+  {
+    "vin": "WBSA7JMA1RE494466",
+    "gos_number": "Н471МК 52",
+    "client_id": 56,
+    "model_id": 7
+  },
+  {
+    "vin": "WBAGA90V5BF171545",
+    "gos_number": "М268УХ 150",
+    "client_id": 56,
+    "model_id": 9
+  },
+  {
+    "vin": "WBAD2XJB28J446660",
+    "gos_number": "Т726ТК 190",
+    "client_id": 57,
+    "model_id": 9
+  },
+  {
+    "vin": "WAUZ9WLM6SC172482",
+    "gos_number": "У922НУ 77",
+    "client_id": 58,
+    "model_id": 23
+  },
+  {
+    "vin": "WBAW3Y0T5FF717099",
+    "gos_number": "Т073РК 72",
+    "client_id": 58,
+    "model_id": 4
+  },
+  {
+    "vin": "WBSW3DKJ5RE569725",
+    "gos_number": "Х185ВР 190",
+    "client_id": 59,
+    "model_id": 11
+  },
+  {
+    "vin": "WDDDA5UP0AL292712",
+    "gos_number": "Т445УО 47",
+    "client_id": 59,
+    "model_id": 16
+  },
+  {
+    "vin": "WDDACN0A6RC830033",
+    "gos_number": "Х899НМ 177",
+    "client_id": 60,
+    "model_id": 21
+  },
+  {
+    "vin": "WBALECWV49J898562",
+    "gos_number": "Н924РН 97",
+    "client_id": 60,
+    "model_id": 9
+  },
+  {
+    "vin": "WBSBRRJPXHA982150",
+    "gos_number": "О898УМ 196",
+    "client_id": 61,
+    "model_id": 13
+  },
+  {
+    "vin": "WDDBDH354AF184723",
+    "gos_number": "Х703УА 150",
+    "client_id": 62,
+    "model_id": 14
+  },
+  {
+    "vin": "WDDJ3G9H6LC117393",
+    "gos_number": "М852СК 750",
+    "client_id": 63,
+    "model_id": 15
+  },
+  {
+    "vin": "WAUC8P7Y81B001197",
+    "gos_number": "Е973ВС 77",
+    "client_id": 64,
+    "model_id": 24
+  },
+  {
+    "vin": "WAUR6VT6XFA120455",
+    "gos_number": "О757ВВ 77",
+    "client_id": 65,
+    "model_id": 22
+  },
+  {
+    "vin": "WBAYZ5UF75G521667",
+    "gos_number": "М856ОХ 16",
+    "client_id": 66,
+    "model_id": 3
+  },
+  {
+    "vin": "WAUHJDLG0HD979729",
+    "gos_number": "О798НТ 77",
+    "client_id": 66,
+    "model_id": 27
+  },
+  {
+    "vin": "WAU78H358HA145089",
+    "gos_number": "Х579КУ 190",
+    "client_id": 66,
+    "model_id": 27
+  },
+  {
+    "vin": "WDDS7Z1K3NL890028",
+    "gos_number": "Р873РЕ 77",
+    "client_id": 67,
+    "model_id": 15
+  },
+  {
+    "vin": "WAUYUD9R71E663177",
+    "gos_number": "Т459ВР 163",
+    "client_id": 67,
+    "model_id": 24
+  },
+  {
+    "vin": "WBAG23CAXMC994883",
+    "gos_number": "У688РН 78",
+    "client_id": 68,
+    "model_id": 8
+  },
+  {
+    "vin": "WAUY705H5SA305548",
+    "gos_number": "С383ХВ 77",
+    "client_id": 68,
+    "model_id": 23
+  },
+  {
+    "vin": "WP03GTNN2LS637351",
+    "gos_number": "О048УУ 177",
+    "client_id": 69,
+    "model_id": 35
+  },
+  {
+    "vin": "WAU9J8AD07E697829",
+    "gos_number": "Е749ЕВ 178",
+    "client_id": 69,
+    "model_id": 25
+  },
+  {
+    "vin": "WAU913SU8CD547226",
+    "gos_number": "Т717ХС 150",
+    "client_id": 70,
+    "model_id": 26
+  },
+  {
+    "vin": "WAUPNPVZ5CF228851",
+    "gos_number": "Н576РТ 23",
+    "client_id": 71,
+    "model_id": 26
+  },
+  {
+    "vin": "WAU4AGB18BB003424",
+    "gos_number": "У257ЕА 50",
+    "client_id": 72,
+    "model_id": 26
+  },
+  {
+    "vin": "WBAZ5GR155E840666",
+    "gos_number": "У321СА 77",
+    "client_id": 72,
+    "model_id": 9
+  },
+  {
+    "vin": "WAUR0NNV5SD212281",
+    "gos_number": "О042ОМ 197",
+    "client_id": 73,
+    "model_id": 23
+  },
+  {
+    "vin": "WBAAY6KC0ND590947",
+    "gos_number": "Т564НВ 90",
+    "client_id": 74,
+    "model_id": 10
+  },
+  {
+    "vin": "WDDE9L321DA533555",
+    "gos_number": "М224ТС 16",
+    "client_id": 74,
+    "model_id": 16
+  },
+  {
+    "vin": "WP0HZ5SS5NS561648",
+    "gos_number": "Х290АС 78",
+    "client_id": 75,
+    "model_id": 38
+  },
+  {
+    "vin": "WDDCVNX97RA128801",
+    "gos_number": "К687УК 93",
+    "client_id": 75,
+    "model_id": 21
+  },
+  {
+    "vin": "WAUEKB6Y7RA110248",
+    "gos_number": "В589КМ 23",
+    "client_id": 76,
+    "model_id": 23
+  },
+  {
+    "vin": "WDDXB1HA1LK919015",
+    "gos_number": "С109МУ 150",
+    "client_id": 77,
+    "model_id": 20
+  },
+  {
+    "vin": "WDD12B7L4PJ326842",
+    "gos_number": "М694ХУ 78",
+    "client_id": 77,
+    "model_id": 18
+  },
+  {
+    "vin": "WP0KHCA22KN814353",
+    "gos_number": "О928УС 777",
+    "client_id": 77,
+    "model_id": 28
+  },
+  {
+    "vin": "WBATNHMD9EJ814141",
+    "gos_number": "К744ТР 190",
+    "client_id": 77,
+    "model_id": 4
+  },
+  {
+    "vin": "WDDVENX8XEF594929",
+    "gos_number": "Т374НО 777",
+    "client_id": 78,
+    "model_id": 17
+  },
+  {
+    "vin": "WBAR4U0J2GG777547",
+    "gos_number": "С112ЕУ 77",
+    "client_id": 79,
+    "model_id": 4
+  },
+  {
+    "vin": "WAUTEEB91MF099693",
+    "gos_number": "А565МС 196",
+    "client_id": 79,
+    "model_id": 23
+  },
+  {
+    "vin": "WDD2RVJ62AJ816580",
+    "gos_number": "У245ТУ 777",
+    "client_id": 80,
+    "model_id": 16
+  },
+  {
+    "vin": "WAULMK7Z9SA373145",
+    "gos_number": "К044УК 66",
+    "client_id": 80,
+    "model_id": 23
+  },
+  {
+    "vin": "WP076CCX4JS844989",
+    "gos_number": "Е386УО 78",
+    "client_id": 81,
+    "model_id": 33
+  },
+  {
+    "vin": "WDD1R2ZZ1LF790827",
+    "gos_number": "Е236ВС 799",
+    "client_id": 82,
+    "model_id": 15
+  },
+  {
+    "vin": "WBA0HR3Y05C777392",
+    "gos_number": "У854ОА 199",
+    "client_id": 83,
+    "model_id": 3
+  },
+  {
+    "vin": "WBAJ9CKD7LD428699",
+    "gos_number": "У020ХХ 50",
+    "client_id": 84,
+    "model_id": 10
+  },
+  {
+    "vin": "WP077LR32HN292984",
+    "gos_number": "Е742УН 52",
+    "client_id": 85,
+    "model_id": 31
+  },
+  {
+    "vin": "WDD11JGBXKB886291",
+    "gos_number": "Е488ТТ 77",
+    "client_id": 86,
+    "model_id": 15
+  },
+  {
+    "vin": "WAUHF7JA2FG686508",
+    "gos_number": "О235РО 750",
+    "client_id": 87,
+    "model_id": 26
+  },
+  {
+    "vin": "WDDJT7RF0NC986430",
+    "gos_number": "Х762АТ 66",
+    "client_id": 88,
+    "model_id": 15
+  },
+  {
+    "vin": "WBAPX30G7RD694486",
+    "gos_number": "Т375ТМ 47",
+    "client_id": 89,
+    "model_id": 1
+  },
+  {
+    "vin": "WAU7M07T38C956213",
+    "gos_number": "Р802ХЕ 177",
+    "client_id": 90,
+    "model_id": 25
+  },
+  {
+    "vin": "WBSDL1AF6SD796114",
+    "gos_number": "К380ВТ 77",
+    "client_id": 92,
+    "model_id": 7
+  },
+  {
+    "vin": "WAUVDM8518A384309",
+    "gos_number": "С529ХК 777",
+    "client_id": 93,
+    "model_id": 25
+  },
+  {
+    "vin": "WAUALFU241C669380",
+    "gos_number": "Х721ВВ 50",
+    "client_id": 93,
+    "model_id": 24
+  },
+  {
+    "vin": "WAUZURN63CD904268",
+    "gos_number": "В573ВС 50",
+    "client_id": 94,
+    "model_id": 26
+  },
+  {
+    "vin": "WBATT51796E577907",
+    "gos_number": "В265ВО 99",
+    "client_id": 94,
+    "model_id": 2
+  },
+  {
+    "vin": "WAU3ZATS5PC165182",
+    "gos_number": "Р322НК 799",
+    "client_id": 95,
+    "model_id": 23
+  },
+  {
+    "vin": "WBS8NSST5NE333952",
+    "gos_number": "В123ВУ 116",
+    "client_id": 96,
+    "model_id": 12
+  },
+  {
+    "vin": "WDD0X8U8XGB846392",
+    "gos_number": "А539ОР 196",
+    "client_id": 97,
+    "model_id": 14
+  },
+  {
+    "vin": "WBAM6H6X5NA036915",
+    "gos_number": "Н628МЕ 197",
+    "client_id": 98,
+    "model_id": 6
+  },
+  {
+    "vin": "WBAY0M847SE655647",
+    "gos_number": "Е586ЕТ 99",
+    "client_id": 99,
+    "model_id": 8
+  },
+  {
+    "vin": "WAUS41NK0KG270267",
+    "gos_number": "Е915УС 196",
+    "client_id": 99,
+    "model_id": 27
+  },
+  {
+    "vin": "WAUTD2GL76A347175",
+    "gos_number": "М370НС 197",
+    "client_id": 99,
+    "model_id": 25
+  },
+  {
+    "vin": "WDDZNMVZ0FC877169",
+    "gos_number": "М475УЕ 777",
+    "client_id": 99,
+    "model_id": 20
+  },
+  {
+    "vin": "WAU2EFLY03B554496",
+    "gos_number": "М909РН 66",
+    "client_id": 100,
+    "model_id": 24
+  },
+  {
+    "vin": "WP0MBJST8HN132611",
+    "gos_number": "В960РС 77",
+    "client_id": 101,
+    "model_id": 34
+  },
+  {
+    "vin": "WBSGTKF11RF334722",
+    "gos_number": "С859ЕА 77",
+    "client_id": 101,
+    "model_id": 7
+  },
+  {
+    "vin": "WAU6U5JM13E979688",
+    "gos_number": "М931НР 196",
+    "client_id": 102,
+    "model_id": 24
+  },
+  {
+    "vin": "WBAW03TK05F008254",
+    "gos_number": "Р548АХ 116",
+    "client_id": 102,
+    "model_id": 2
+  },
+  {
+    "vin": "WP0A4VRA8MN536866",
+    "gos_number": "К168ХХ 178",
+    "client_id": 103,
+    "model_id": 35
+  },
+  {
+    "vin": "WAUF4SUV4NF846312",
+    "gos_number": "Е297ВУ 52",
+    "client_id": 104,
+    "model_id": 23
+  },
+  {
+    "vin": "WDD8NXBK2SA802144",
+    "gos_number": "Е733РХ 77",
+    "client_id": 104,
+    "model_id": 18
+  },
+  {
+    "vin": "WBA8PY3W23J570512",
+    "gos_number": "А273ОВ 196",
+    "client_id": 105,
+    "model_id": 3
+  },
+  {
+    "vin": "WDD1AHS14HL730371",
+    "gos_number": "С682КР 178",
+    "client_id": 106,
+    "model_id": 17
+  },
+  {
+    "vin": "WAULCHT722F435031",
+    "gos_number": "К649ОН 77",
+    "client_id": 107,
+    "model_id": 24
+  },
+  {
+    "vin": "WBSH2SAC2MJ925132",
+    "gos_number": "Р094УТ 190",
+    "client_id": 107,
+    "model_id": 5
+  },
+  {
+    "vin": "WP0DZKGJ5NL358573",
+    "gos_number": "А706ОН 177",
+    "client_id": 108,
+    "model_id": 38
+  },
+  {
+    "vin": "WBA5V8NM4SG574982",
+    "gos_number": "В544ЕР 50",
+    "client_id": 109,
+    "model_id": 1
+  },
+  {
+    "vin": "WAU6A91MXCA959351",
+    "gos_number": "У991СО 97",
+    "client_id": 109,
+    "model_id": 26
+  },
+  {
+    "vin": "WDDKVX3X4SA181022",
+    "gos_number": "А207ВР 97",
+    "client_id": 109,
+    "model_id": 21
+  },
+  {
+    "vin": "WBA8TD0R9RC037170",
+    "gos_number": "Н572ХО 78",
+    "client_id": 109,
+    "model_id": 10
+  },
+  {
+    "vin": "WAUCEWEP5FE113863",
+    "gos_number": "К539УК 777",
+    "client_id": 110,
+    "model_id": 22
+  },
+  {
+    "vin": "WDDZ64GL6FL286852",
+    "gos_number": "С615РН 90",
+    "client_id": 110,
+    "model_id": 20
+  },
+  {
+    "vin": "WDC34XSP0HF845776",
+    "gos_number": "А744АМ 77",
+    "client_id": 111,
+    "model_id": 19
+  },
+  {
+    "vin": "WDDWRPXB3LL488899",
+    "gos_number": "Е097АР 750",
+    "client_id": 111,
+    "model_id": 18
+  },
+  {
+    "vin": "WBSSRTWF7KH931572",
+    "gos_number": "Р846ХХ 177",
+    "client_id": 111,
+    "model_id": 5
+  },
+  {
+    "vin": "WDD1FDYZ2LL661390",
+    "gos_number": "У797УО 77",
+    "client_id": 112,
+    "model_id": 18
+  },
+  {
+    "vin": "WBAKX9RK4PA679981",
+    "gos_number": "К443МО 777",
+    "client_id": 113,
+    "model_id": 1
+  },
+  {
+    "vin": "WBAD2TF2X5H227837",
+    "gos_number": "О668ТК 66",
+    "client_id": 113,
+    "model_id": 2
+  },
+  {
+    "vin": "WBA4XFH3X2H553559",
+    "gos_number": "У025МЕ 750",
+    "client_id": 114,
+    "model_id": 2
+  },
+  {
+    "vin": "WDDK5CRN6SK521103",
+    "gos_number": "Т949ЕМ 77",
+    "client_id": 115,
+    "model_id": 21
+  },
+  {
+    "vin": "WDD57BYP1LK833884",
+    "gos_number": "С495ТХ 777",
+    "client_id": 115,
+    "model_id": 15
+  },
+  {
+    "vin": "WAU1CTLD4FC394070",
+    "gos_number": "В398УМ 78",
+    "client_id": 116,
+    "model_id": 27
+  },
+  {
+    "vin": "WAU1R19G8FC798123",
+    "gos_number": "С990РС 77",
+    "client_id": 117,
+    "model_id": 22
+  },
+  {
+    "vin": "WBAY82LB99G554384",
+    "gos_number": "А641МО 77",
+    "client_id": 118,
+    "model_id": 9
+  },
+  {
+    "vin": "WP0KY2JF1EN689363",
+    "gos_number": "Т157ОМ 190",
+    "client_id": 119,
+    "model_id": 32
+  },
+  {
+    "vin": "WDDJNJWJ28F292518",
+    "gos_number": "С972ХВ 777",
+    "client_id": 121,
+    "model_id": 16
+  },
+  {
+    "vin": "WBAX33W543F231220",
+    "gos_number": "Т632МТ 99",
+    "client_id": 121,
+    "model_id": 3
+  },
+  {
+    "vin": "WDDZF7J96DL975267",
+    "gos_number": "Р141ЕК 99",
+    "client_id": 122,
+    "model_id": 17
+  },
+  {
+    "vin": "WBSU3RNP0EC279757",
+    "gos_number": "К438ОА 178",
+    "client_id": 123,
+    "model_id": 13
+  },
+  {
+    "vin": "WAUCG56C88B886086",
+    "gos_number": "С784УА 97",
+    "client_id": 124,
+    "model_id": 25
+  },
+  {
+    "vin": "WBSV6L4V3SA827718",
+    "gos_number": "В185ТХ 196",
+    "client_id": 124,
+    "model_id": 7
+  },
+  {
+    "vin": "WBS5BM6N1SJ145211",
+    "gos_number": "В724РУ 78",
+    "client_id": 125,
+    "model_id": 7
+  },
+  {
+    "vin": "WBS9L11C0RD592222",
+    "gos_number": "Х053ОМ 150",
+    "client_id": 126,
+    "model_id": 12
+  },
+  {
+    "vin": "WAUMHJNA26E407778",
+    "gos_number": "А623РК 97",
+    "client_id": 126,
+    "model_id": 25
+  },
+  {
+    "vin": "WDD35FAS6RJ498302",
+    "gos_number": "Е057УН 77",
+    "client_id": 128,
+    "model_id": 21
+  },
+  {
+    "vin": "WBAYFDG39ND249998",
+    "gos_number": "Е990РХ 78",
+    "client_id": 128,
+    "model_id": 1
+  },
+  {
+    "vin": "WP0X01E4XGN147214",
+    "gos_number": "Н540ОС 97",
+    "client_id": 128,
+    "model_id": 29
+  },
+  {
+    "vin": "WAUGF7V407E548995",
+    "gos_number": "Е630ТР 66",
+    "client_id": 129,
+    "model_id": 26
+  },
+  {
+    "vin": "WAUMRVNA97A071396",
+    "gos_number": "О047НН 97",
+    "client_id": 130,
+    "model_id": 25
+  },
+  {
+    "vin": "WBAVTEWW4FG015569",
+    "gos_number": "Т984АЕ 97",
+    "client_id": 130,
+    "model_id": 4
+  },
+  {
+    "vin": "WBA7CJ7KXPJ857608",
+    "gos_number": "М579ХУ 90",
+    "client_id": 130,
+    "model_id": 6
+  },
+  {
+    "vin": "WDDYZEKU6CL056829",
+    "gos_number": "Т399ЕТ 177",
+    "client_id": 131,
+    "model_id": 14
+  },
+  {
+    "vin": "WAUXCU3F15D357438",
+    "gos_number": "М180ВН 77",
+    "client_id": 131,
+    "model_id": 24
+  },
+  {
+    "vin": "WAU9B79K5JB578452",
+    "gos_number": "В842СУ 177",
+    "client_id": 132,
+    "model_id": 22
+  },
+  {
+    "vin": "WBA1HAWC8SC570184",
+    "gos_number": "А592МУ 97",
+    "client_id": 133,
+    "model_id": 1
+  },
+  {
+    "vin": "WBAUX5HU2CD241098",
+    "gos_number": "С105КС 750",
+    "client_id": 134,
+    "model_id": 4
+  },
+  {
+    "vin": "WDDVSLEW6MJ587020",
+    "gos_number": "Р925УА 177",
+    "client_id": 135,
+    "model_id": 18
+  },
+  {
+    "vin": "WDD2M5ZW3NC381792",
+    "gos_number": "В833ХР 177",
+    "client_id": 135,
+    "model_id": 15
+  },
+  {
+    "vin": "WDDRRKT00RF255770",
+    "gos_number": "В487ВН 16",
+    "client_id": 136,
+    "model_id": 21
+  },
+  {
+    "vin": "WDDZJ9G269L158148",
+    "gos_number": "Р411ТО 199",
+    "client_id": 136,
+    "model_id": 16
+  },
+  {
+    "vin": "WDD1EYP42CL695832",
+    "gos_number": "У686ВХ 116",
+    "client_id": 138,
+    "model_id": 16
+  },
+  {
+    "vin": "WBAXG5MW8SH191965",
+    "gos_number": "Р661УА 77",
+    "client_id": 139,
+    "model_id": 10
+  },
+  {
+    "vin": "WBAKK5V173J335494",
+    "gos_number": "О736НВ 77",
+    "client_id": 139,
+    "model_id": 3
+  },
+  {
+    "vin": "WDDVD0DAXGK851403",
+    "gos_number": "О720ТО 90",
+    "client_id": 140,
+    "model_id": 20
+  },
+  {
+    "vin": "WAU4PM7J17B865624",
+    "gos_number": "У129ЕА 77",
+    "client_id": 140,
+    "model_id": 25
+  },
+  {
+    "vin": "WAU4JFJ39SG796927",
+    "gos_number": "С435СР 178",
+    "client_id": 141,
+    "model_id": 23
+  },
+  {
+    "vin": "WDDA8S9U2BF895009",
+    "gos_number": "Р722НВ 16",
+    "client_id": 142,
+    "model_id": 16
+  },
+  {
+    "vin": "WP0U6FFS5FL189490",
+    "gos_number": "Н548АР 52",
+    "client_id": 142,
+    "model_id": 29
+  },
+  {
+    "vin": "WDDY3ZVVXSB094940",
+    "gos_number": "У485ТЕ 77",
+    "client_id": 143,
+    "model_id": 21
+  },
+  {
+    "vin": "WAUBV8FJ45E144294",
+    "gos_number": "М879МА 177",
+    "client_id": 143,
+    "model_id": 24
+  },
+  {
+    "vin": "WDD0MTS89CB805129",
+    "gos_number": "Е858РО 178",
+    "client_id": 144,
+    "model_id": 16
+  },
+  {
+    "vin": "WBAPZDTH1NA276747",
+    "gos_number": "Х972СК 178",
+    "client_id": 145,
+    "model_id": 8
+  },
+  {
+    "vin": "WAUTK4AV07G765801",
+    "gos_number": "С653НО 799",
+    "client_id": 146,
+    "model_id": 25
+  },
+  {
+    "vin": "WBSGT26S6PE852580",
+    "gos_number": "У009ВА 23",
+    "client_id": 146,
+    "model_id": 5
+  },
+  {
+    "vin": "WBAZRVTN25A091093",
+    "gos_number": "Т654ВХ 177",
+    "client_id": 146,
+    "model_id": 2
+  },
+  {
+    "vin": "WBA1MHMT8LF717465",
+    "gos_number": "М166ВМ 77",
+    "client_id": 146,
+    "model_id": 10
+  },
+  {
+    "vin": "WDCTTM5E2FF396271",
+    "gos_number": "Е554ОК 177",
+    "client_id": 147,
+    "model_id": 19
+  },
+  {
+    "vin": "WP0CEET51DS720064",
+    "gos_number": "Е717НО 77",
+    "client_id": 147,
+    "model_id": 32
+  },
+  {
+    "vin": "WDD42ERA6RF719855",
+    "gos_number": "У311ОА 77",
+    "client_id": 148,
+    "model_id": 21
+  },
+  {
+    "vin": "WDC6VNMC0FF346157",
+    "gos_number": "В907УР 97",
+    "client_id": 148,
+    "model_id": 19
+  },
+  {
+    "vin": "WBAS81EW5AJ870050",
+    "gos_number": "Н807ХА 47",
+    "client_id": 149,
+    "model_id": 4
+  },
+  {
+    "vin": "WBS6KREC3KD707903",
+    "gos_number": "Х665ЕА 777",
+    "client_id": 149,
+    "model_id": 13
+  },
+  {
+    "vin": "WDD6LEGHXLF993136",
+    "gos_number": "Н831ХУ 47",
+    "client_id": 150,
+    "model_id": 18
+  },
+  {
+    "vin": "WBSJXPCM3SG114262",
+    "gos_number": "Х379СЕ 163",
+    "client_id": 152,
+    "model_id": 11
+  },
+  {
+    "vin": "WBAJG1LB7JJ100219",
+    "gos_number": "М427ХР 177",
+    "client_id": 152,
+    "model_id": 10
+  },
+  {
+    "vin": "WBS53SMC5PD791456",
+    "gos_number": "А572КК 177",
+    "client_id": 153,
+    "model_id": 11
+  },
+  {
+    "vin": "WP009R6P0JL031277",
+    "gos_number": "Е164УА 77",
+    "client_id": 154,
+    "model_id": 29
+  },
+  {
+    "vin": "WAU4TY6CX1A082207",
+    "gos_number": "С119ВК 163",
+    "client_id": 154,
+    "model_id": 24
+  },
+  {
+    "vin": "WDCNXRHX2JB136363",
+    "gos_number": "В483ТР 77",
+    "client_id": 155,
+    "model_id": 19
+  },
+  {
+    "vin": "WP06M10J6FL354352",
+    "gos_number": "А709ТА 799",
+    "client_id": 155,
+    "model_id": 30
+  },
+  {
+    "vin": "WBA3LYRV1RD929831",
+    "gos_number": "О878СР 97",
+    "client_id": 156,
+    "model_id": 8
+  },
+  {
+    "vin": "WDDA4SSX0PF939290",
+    "gos_number": "О046АР 72",
+    "client_id": 156,
+    "model_id": 21
+  },
+  {
+    "vin": "WBA7G58S8BC806325",
+    "gos_number": "М245УВ 77",
+    "client_id": 156,
+    "model_id": 9
+  },
+  {
+    "vin": "WDD6B66J6ML625701",
+    "gos_number": "О915ХН 66",
+    "client_id": 157,
+    "model_id": 18
+  },
+  {
+    "vin": "WBSPFYD96SG016579",
+    "gos_number": "А375НЕ 77",
+    "client_id": 157,
+    "model_id": 7
+  },
+  {
+    "vin": "WDDYSH7P0FL355486",
+    "gos_number": "М056ВН 750",
+    "client_id": 158,
+    "model_id": 17
+  },
+  {
+    "vin": "WDDV50EN7PF116241",
+    "gos_number": "В169МВ 777",
+    "client_id": 158,
+    "model_id": 15
+  },
+  {
+    "vin": "WDDV3J7Z5DF704310",
+    "gos_number": "К855СУ 190",
+    "client_id": 159,
+    "model_id": 17
+  },
+  {
+    "vin": "WDC856WJ8HL424375",
+    "gos_number": "М789АЕ 750",
+    "client_id": 160,
+    "model_id": 19
+  },
+  {
+    "vin": "WBAVMMKL95E105927",
+    "gos_number": "М379ЕК 77",
+    "client_id": 160,
+    "model_id": 3
+  },
+  {
+    "vin": "WAU05LWH61A672752",
+    "gos_number": "А994ХС 72",
+    "client_id": 160,
+    "model_id": 24
+  },
+  {
+    "vin": "WBS7VK5Y7PC702814",
+    "gos_number": "А412ТК 163",
+    "client_id": 161,
+    "model_id": 12
+  },
+  {
+    "vin": "WDCNRUNB0FA871863",
+    "gos_number": "Р326ТТ 72",
+    "client_id": 161,
+    "model_id": 19
+  },
+  {
+    "vin": "WP02K4017RL045547",
+    "gos_number": "С090КХ 163",
+    "client_id": 162,
+    "model_id": 38
+  },
+  {
+    "vin": "WAUVL43J37G991234",
+    "gos_number": "Р889СН 77",
+    "client_id": 163,
+    "model_id": 25
+  },
+  {
+    "vin": "WP0FA3U33PS879232",
+    "gos_number": "О297СР 77",
+    "client_id": 163,
+    "model_id": 37
+  },
+  {
+    "vin": "WAUW86RB84G024471",
+    "gos_number": "У682МО 777",
+    "client_id": 163,
+    "model_id": 24
+  },
+  {
+    "vin": "WDDHU8E0XDJ796471",
+    "gos_number": "Н525ХТ 77",
+    "client_id": 163,
+    "model_id": 17
+  },
+  {
+    "vin": "WAUKX6JZXJB045650",
+    "gos_number": "М299СУ 77",
+    "client_id": 164,
+    "model_id": 23
+  },
+  {
+    "vin": "WDDLXXWU46K518952",
+    "gos_number": "А141СМ 78",
+    "client_id": 164,
+    "model_id": 16
+  },
+  {
+    "vin": "WAULGPK996B389888",
+    "gos_number": "Х775ВО 52",
+    "client_id": 165,
+    "model_id": 25
+  },
+  {
+    "vin": "WP0B7ZW03FS798524",
+    "gos_number": "А763ВК 177",
+    "client_id": 165,
+    "model_id": 29
+  },
+  {
+    "vin": "WAUWJPJF4MD110760",
+    "gos_number": "К111АУ 72",
+    "client_id": 166,
+    "model_id": 23
+  },
+  {
+    "vin": "WDDTCEWA8ML119393",
+    "gos_number": "Е687НА 77",
+    "client_id": 166,
+    "model_id": 21
+  },
+  {
+    "vin": "WBSZZL9S1PC190833",
+    "gos_number": "М176СА 177",
+    "client_id": 167,
+    "model_id": 12
+  },
+  {
+    "vin": "WP070M5G5SS566383",
+    "gos_number": "О116НВ 52",
+    "client_id": 168,
+    "model_id": 36
+  },
+  {
+    "vin": "WBA0VCFX3AJ164794",
+    "gos_number": "У862РК 23",
+    "client_id": 169,
+    "model_id": 3
+  },
+  {
+    "vin": "WBSE70MA8RJ167811",
+    "gos_number": "Е405ОХ 177",
+    "client_id": 170,
+    "model_id": 7
+  },
+  {
+    "vin": "WAU0NYN22KA367499",
+    "gos_number": "М775УО 750",
+    "client_id": 171,
+    "model_id": 23
+  },
+  {
+    "vin": "WDD9UK6G9MA477320",
+    "gos_number": "В756АВ 116",
+    "client_id": 171,
+    "model_id": 20
+  },
+  {
+    "vin": "WAUXKWGE9RF877347",
+    "gos_number": "Р517МС 190",
+    "client_id": 171,
+    "model_id": 23
+  },
+  {
+    "vin": "WAUBC4H17FD567700",
+    "gos_number": "Е571УМ 777",
+    "client_id": 172,
+    "model_id": 26
+  },
+  {
+    "vin": "WDD18H8749F828064",
+    "gos_number": "Р606ОТ 750",
+    "client_id": 173,
+    "model_id": 16
+  },
+  {
+    "vin": "WAUDBCJ012C905616",
+    "gos_number": "Н366ОН 77",
+    "client_id": 173,
+    "model_id": 24
+  },
+  {
+    "vin": "WAUWFEWH3MC208507",
+    "gos_number": "У885ОТ 72",
+    "client_id": 174,
+    "model_id": 23
+  },
+  {
+    "vin": "WP07BX118DL917135",
+    "gos_number": "Р515УН 777",
+    "client_id": 175,
+    "model_id": 32
+  },
+  {
+    "vin": "WDCN8EPV9JC049639",
+    "gos_number": "Х981ВХ 177",
+    "client_id": 176,
+    "model_id": 19
+  },
+  {
+    "vin": "WDD74PZE8LK484685",
+    "gos_number": "К425ОМ 72",
+    "client_id": 176,
+    "model_id": 18
+  },
+  {
+    "vin": "WDDM8P6U55K896908",
+    "gos_number": "К374РЕ 199",
+    "client_id": 177,
+    "model_id": 16
+  },
+  {
+    "vin": "WBS43XEP5PH442493",
+    "gos_number": "О245ВЕ 97",
+    "client_id": 178,
+    "model_id": 11
+  },
+  {
+    "vin": "WBSW68447LA324204",
+    "gos_number": "М675СЕ 77",
+    "client_id": 178,
+    "model_id": 13
+  },
+  {
+    "vin": "WP0BDFXWXSS651623",
+    "gos_number": "В585ХС 177",
+    "client_id": 178,
+    "model_id": 35
+  },
+  {
+    "vin": "WDDFSHXYXPL963632",
+    "gos_number": "В180КМ 163",
+    "client_id": 179,
+    "model_id": 18
+  },
+  {
+    "vin": "WDD0HX479GK342575",
+    "gos_number": "М022УТ 77",
+    "client_id": 180,
+    "model_id": 14
+  },
+  {
+    "vin": "WAUST1W01FG183760",
+    "gos_number": "О950ММ 77",
+    "client_id": 180,
+    "model_id": 27
+  },
+  {
+    "vin": "WP0PL5X30GS417765",
+    "gos_number": "Х433ВЕ 197",
+    "client_id": 181,
+    "model_id": 31
+  },
+  {
+    "vin": "WDCX6BDM4JK720634",
+    "gos_number": "Н590ВВ 777",
+    "client_id": 181,
+    "model_id": 19
+  },
+  {
+    "vin": "WBS3X57J6NF295431",
+    "gos_number": "О377ЕО 178",
+    "client_id": 182,
+    "model_id": 12
+  },
+  {
+    "vin": "WP0BBRF66MS420696",
+    "gos_number": "Т267ЕВ 78",
+    "client_id": 183,
+    "model_id": 37
+  },
+  {
+    "vin": "WBAA468H6KE334476",
+    "gos_number": "Е442КТ 97",
+    "client_id": 184,
+    "model_id": 10
+  },
+  {
+    "vin": "WP0N3M3K8JS443973",
+    "gos_number": "Н597УУ 52",
+    "client_id": 184,
+    "model_id": 32
+  },
+  {
+    "vin": "WBAX2P140NF118005",
+    "gos_number": "К483НТ 77",
+    "client_id": 185,
+    "model_id": 8
+  },
+  {
+    "vin": "WBAW20JC6BD428757",
+    "gos_number": "Е092НХ 66",
+    "client_id": 186,
+    "model_id": 9
+  },
+  {
+    "vin": "WDDXCJ8U6LK564494",
+    "gos_number": "С321ОЕ 90",
+    "client_id": 187,
+    "model_id": 18
+  },
+  {
+    "vin": "WAU5DNKD65B207427",
+    "gos_number": "О119РА 163",
+    "client_id": 187,
+    "model_id": 25
+  },
+  {
+    "vin": "WDD8HKHZ6RA342284",
+    "gos_number": "Т913УТ 97",
+    "client_id": 187,
+    "model_id": 21
+  },
+  {
+    "vin": "WDD3ES8G3BC041659",
+    "gos_number": "В858НЕ 77",
+    "client_id": 188,
+    "model_id": 14
+  },
+  {
+    "vin": "WBS6UAYC3RJ592304",
+    "gos_number": "Н818АХ 77",
+    "client_id": 189,
+    "model_id": 12
+  },
+  {
+    "vin": "WDD2TMS21FA032664",
+    "gos_number": "У771УЕ 177",
+    "client_id": 190,
+    "model_id": 20
+  },
+  {
+    "vin": "WBSWJZG00HE776749",
+    "gos_number": "Т434ВО 78",
+    "client_id": 190,
+    "model_id": 13
+  },
+  {
+    "vin": "WDDFC9Y67LK327881",
+    "gos_number": "М480ОВ 16",
+    "client_id": 191,
+    "model_id": 20
+  },
+  {
+    "vin": "WBAS4VDEX7A818661",
+    "gos_number": "Р677ХТ 197",
+    "client_id": 192,
+    "model_id": 3
+  },
+  {
+    "vin": "WDDH6MM23GA164597",
+    "gos_number": "У461ТМ 190",
+    "client_id": 193,
+    "model_id": 15
+  },
+  {
+    "vin": "WP0MFTG46FN006102",
+    "gos_number": "У489РХ 47",
+    "client_id": 193,
+    "model_id": 30
+  },
+  {
+    "vin": "WAU8W02W7RA220310",
+    "gos_number": "Х994КА 97",
+    "client_id": 194,
+    "model_id": 27
+  },
+  {
+    "vin": "WDD4NFW6X8B760122",
+    "gos_number": "Х720РР 16",
+    "client_id": 194,
+    "model_id": 16
+  },
+  {
+    "vin": "WBASNV2D0SG016679",
+    "gos_number": "Т749СМ 77",
+    "client_id": 195,
+    "model_id": 8
+  },
+  {
+    "vin": "WDD8RDB49SJ581467",
+    "gos_number": "В507ТУ 750",
+    "client_id": 195,
+    "model_id": 21
+  },
+  {
+    "vin": "WDDLVN7Z5EF383959",
+    "gos_number": "Х673РЕ 50",
+    "client_id": 196,
+    "model_id": 20
+  },
+  {
+    "vin": "WAU07LPV87F172232",
+    "gos_number": "Т504ВО 116",
+    "client_id": 196,
+    "model_id": 25
+  },
+  {
+    "vin": "WBADBZTZ4ED280156",
+    "gos_number": "В633КВ 99",
+    "client_id": 197,
+    "model_id": 4
+  },
+  {
+    "vin": "WDCCUK9G2HK077119",
+    "gos_number": "Т801ВС 77",
+    "client_id": 198,
+    "model_id": 19
+  },
+  {
+    "vin": "WDDP0LV506L871255",
+    "gos_number": "Е126КР 23",
+    "client_id": 199,
+    "model_id": 16
+  },
+  {
+    "vin": "WAU7YV9L9EA456532",
+    "gos_number": "С432КЕ 93",
+    "client_id": 199,
+    "model_id": 22
+  },
+  {
+    "vin": "WDD0B5KA6MK811556",
+    "gos_number": "Е445АО 77",
+    "client_id": 200,
+    "model_id": 20
+  }
+]

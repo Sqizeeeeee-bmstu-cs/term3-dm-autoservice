@@ -1,0 +1,14 @@
+target-version = "py313"
+line-length = 88
+
+[lint]
+select = [
+    "F401", 
+    "F841", 
+    "I", 
+    "E1"
+]
+ignore = ["Q"]
+
+[format]
+quote-style = "preserve"

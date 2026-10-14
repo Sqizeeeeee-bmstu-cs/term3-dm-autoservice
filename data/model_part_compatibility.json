@@ -1,0 +1,5914 @@
+[
+  {
+    "model_id": 1,
+    "article": "ABS-FL-E34"
+  },
+  {
+    "model_id": 1,
+    "article": "ABS-FR-E34"
+  },
+  {
+    "model_id": 1,
+    "article": "ABS-RL-E34"
+  },
+  {
+    "model_id": 1,
+    "article": "ABS-RR-E34"
+  },
+  {
+    "model_id": 1,
+    "article": "AFLT-M50B25"
+  },
+  {
+    "model_id": 1,
+    "article": "AFLT-M60B40"
+  },
+  {
+    "model_id": 1,
+    "article": "CAB-E34"
+  },
+  {
+    "model_id": 1,
+    "article": "CLP-FL-E34"
+  },
+  {
+    "model_id": 1,
+    "article": "CLP-FR-E34"
+  },
+  {
+    "model_id": 1,
+    "article": "CLP-RL-E34"
+  },
+  {
+    "model_id": 1,
+    "article": "CLP-RR-E34"
+  },
+  {
+    "model_id": 1,
+    "article": "COIL-M50B25"
+  },
+  {
+    "model_id": 1,
+    "article": "COIL-M60B40"
+  },
+  {
+    "model_id": 1,
+    "article": "COOL-BMW-1_5L"
+  },
+  {
+    "model_id": 1,
+    "article": "COOL-BMW-5L"
+  },
+  {
+    "model_id": 1,
+    "article": "DSK-F-E34"
+  },
+  {
+    "model_id": 1,
+    "article": "DSK-R-E34"
+  },
+  {
+    "model_id": 1,
+    "article": "ENG-M50B25"
+  },
+  {
+    "model_id": 1,
+    "article": "ENG-M60B40"
+  },
+  {
+    "model_id": 1,
+    "article": "EXH-CB-E34"
+  },
+  {
+    "model_id": 1,
+    "article": "EXH-FS-E34"
+  },
+  {
+    "model_id": 1,
+    "article": "FFLT-M50B25"
+  },
+  {
+    "model_id": 1,
+    "article": "FFLT-M60B40"
+  },
+  {
+    "model_id": 1,
+    "article": "FPMP-M50B25"
+  },
+  {
+    "model_id": 1,
+    "article": "FPMP-M60B40"
+  },
+  {
+    "model_id": 1,
+    "article": "GBX-E34"
+  },
+  {
+    "model_id": 1,
+    "article": "GOIL-ZF5HP"
+  },
+  {
+    "model_id": 1,
+    "article": "INJ-M50B25"
+  },
+  {
+    "model_id": 1,
+    "article": "INJ-M60B40"
+  },
+  {
+    "model_id": 1,
+    "article": "OIL-BMW-5W30-1L"
+  },
+  {
+    "model_id": 1,
+    "article": "OIL-BMW-5W30-5L"
+  },
+  {
+    "model_id": 1,
+    "article": "OIL-BMW-5W40-1L"
+  },
+  {
+    "model_id": 1,
+    "article": "OIL-BMW-5W40-5L"
+  },
+  {
+    "model_id": 1,
+    "article": "OILKIT-M50B25"
+  },
+  {
+    "model_id": 1,
+    "article": "OILKIT-M60B40"
+  },
+  {
+    "model_id": 1,
+    "article": "PLUG-M50B25"
+  },
+  {
+    "model_id": 1,
+    "article": "PLUG-M60B40"
+  },
+  {
+    "model_id": 2,
+    "article": "ABS-FL-E46"
+  },
+  {
+    "model_id": 2,
+    "article": "ABS-FR-E46"
+  },
+  {
+    "model_id": 2,
+    "article": "ABS-RL-E46"
+  },
+  {
+    "model_id": 2,
+    "article": "ABS-RR-E46"
+  },
+  {
+    "model_id": 2,
+    "article": "AFLT-M54B30"
+  },
+  {
+    "model_id": 2,
+    "article": "AFLT-N46B20"
+  },
+  {
+    "model_id": 2,
+    "article": "CAB-E46"
+  },
+  {
+    "model_id": 2,
+    "article": "CLP-FL-E46"
+  },
+  {
+    "model_id": 2,
+    "article": "CLP-FR-E46"
+  },
+  {
+    "model_id": 2,
+    "article": "CLP-RL-E46"
+  },
+  {
+    "model_id": 2,
+    "article": "CLP-RR-E46"
+  },
+  {
+    "model_id": 2,
+    "article": "COIL-M54B30"
+  },
+  {
+    "model_id": 2,
+    "article": "COIL-N46B20"
+  },
+  {
+    "model_id": 2,
+    "article": "COOL-BMW-1_5L"
+  },
+  {
+    "model_id": 2,
+    "article": "COOL-BMW-5L"
+  },
+  {
+    "model_id": 2,
+    "article": "DSK-F-E46"
+  },
+  {
+    "model_id": 2,
+    "article": "DSK-R-E46"
+  },
+  {
+    "model_id": 2,
+    "article": "ENG-M54B30"
+  },
+  {
+    "model_id": 2,
+    "article": "ENG-N46B20"
+  },
+  {
+    "model_id": 2,
+    "article": "EXH-CB-E46"
+  },
+  {
+    "model_id": 2,
+    "article": "EXH-FS-E46"
+  },
+  {
+    "model_id": 2,
+    "article": "FFLT-M54B30"
+  },
+  {
+    "model_id": 2,
+    "article": "FFLT-N46B20"
+  },
+  {
+    "model_id": 2,
+    "article": "FPMP-M54B30"
+  },
+  {
+    "model_id": 2,
+    "article": "FPMP-N46B20"
+  },
+  {
+    "model_id": 2,
+    "article": "GBX-E46"
+  },
+  {
+    "model_id": 2,
+    "article": "GOIL-ZF5HP"
+  },
+  {
+    "model_id": 2,
+    "article": "INJ-M54B30"
+  },
+  {
+    "model_id": 2,
+    "article": "INJ-N46B20"
+  },
+  {
+    "model_id": 2,
+    "article": "OIL-BMW-5W30-1L"
+  },
+  {
+    "model_id": 2,
+    "article": "OIL-BMW-5W30-5L"
+  },
+  {
+    "model_id": 2,
+    "article": "OIL-BMW-5W40-1L"
+  },
+  {
+    "model_id": 2,
+    "article": "OIL-BMW-5W40-5L"
+  },
+  {
+    "model_id": 2,
+    "article": "OILKIT-M54B30"
+  },
+  {
+    "model_id": 2,
+    "article": "OILKIT-N46B20"
+  },
+  {
+    "model_id": 2,
+    "article": "PLUG-M54B30"
+  },
+  {
+    "model_id": 2,
+    "article": "PLUG-N46B20"
+  },
+  {
+    "model_id": 3,
+    "article": "ABS-FL-E60"
+  },
+  {
+    "model_id": 3,
+    "article": "ABS-FR-E60"
+  },
+  {
+    "model_id": 3,
+    "article": "ABS-RL-E60"
+  },
+  {
+    "model_id": 3,
+    "article": "ABS-RR-E60"
+  },
+  {
+    "model_id": 3,
+    "article": "AFLT-N52B30"
+  },
+  {
+    "model_id": 3,
+    "article": "AFLT-N54B30"
+  },
+  {
+    "model_id": 3,
+    "article": "CAB-E60"
+  },
+  {
+    "model_id": 3,
+    "article": "CLP-FL-E60"
+  },
+  {
+    "model_id": 3,
+    "article": "CLP-FR-E60"
+  },
+  {
+    "model_id": 3,
+    "article": "CLP-RL-E60"
+  },
+  {
+    "model_id": 3,
+    "article": "CLP-RR-E60"
+  },
+  {
+    "model_id": 3,
+    "article": "COIL-N52B30"
+  },
+  {
+    "model_id": 3,
+    "article": "COIL-N54B30"
+  },
+  {
+    "model_id": 3,
+    "article": "COOL-BMW-1_5L"
+  },
+  {
+    "model_id": 3,
+    "article": "COOL-BMW-5L"
+  },
+  {
+    "model_id": 3,
+    "article": "DSK-F-E60"
+  },
+  {
+    "model_id": 3,
+    "article": "DSK-R-E60"
+  },
+  {
+    "model_id": 3,
+    "article": "ENG-N52B30"
+  },
+  {
+    "model_id": 3,
+    "article": "ENG-N54B30"
+  },
+  {
+    "model_id": 3,
+    "article": "EXH-CB-E60"
+  },
+  {
+    "model_id": 3,
+    "article": "EXH-DP-E60"
+  },
+  {
+    "model_id": 3,
+    "article": "EXH-FS-E60"
+  },
+  {
+    "model_id": 3,
+    "article": "FFLT-N52B30"
+  },
+  {
+    "model_id": 3,
+    "article": "FFLT-N54B30"
+  },
+  {
+    "model_id": 3,
+    "article": "FPMP-N52B30"
+  },
+  {
+    "model_id": 3,
+    "article": "FPMP-N54B30"
+  },
+  {
+    "model_id": 3,
+    "article": "GBX-E60"
+  },
+  {
+    "model_id": 3,
+    "article": "GOIL-ZF6HP"
+  },
+  {
+    "model_id": 3,
+    "article": "HPFP-N54B30"
+  },
+  {
+    "model_id": 3,
+    "article": "INJ-N52B30"
+  },
+  {
+    "model_id": 3,
+    "article": "INJ-N54B30"
+  },
+  {
+    "model_id": 3,
+    "article": "OIL-BMW-5W30-1L"
+  },
+  {
+    "model_id": 3,
+    "article": "OIL-BMW-5W30-5L"
+  },
+  {
+    "model_id": 3,
+    "article": "OIL-BMW-5W40-1L"
+  },
+  {
+    "model_id": 3,
+    "article": "OIL-BMW-5W40-5L"
+  },
+  {
+    "model_id": 3,
+    "article": "OILKIT-N52B30"
+  },
+  {
+    "model_id": 3,
+    "article": "OILKIT-N54B30"
+  },
+  {
+    "model_id": 3,
+    "article": "PLUG-N52B30"
+  },
+  {
+    "model_id": 3,
+    "article": "PLUG-N54B30"
+  },
+  {
+    "model_id": 3,
+    "article": "TRB-N54B30"
+  },
+  {
+    "model_id": 4,
+    "article": "ABS-FL-F10"
+  },
+  {
+    "model_id": 4,
+    "article": "ABS-FR-F10"
+  },
+  {
+    "model_id": 4,
+    "article": "ABS-RL-F10"
+  },
+  {
+    "model_id": 4,
+    "article": "ABS-RR-F10"
+  },
+  {
+    "model_id": 4,
+    "article": "AFLT-N55B30"
+  },
+  {
+    "model_id": 4,
+    "article": "AFLT-N63B44"
+  },
+  {
+    "model_id": 4,
+    "article": "CAB-F10"
+  },
+  {
+    "model_id": 4,
+    "article": "CLP-FL-F10"
+  },
+  {
+    "model_id": 4,
+    "article": "CLP-FR-F10"
+  },
+  {
+    "model_id": 4,
+    "article": "CLP-RL-F10"
+  },
+  {
+    "model_id": 4,
+    "article": "CLP-RR-F10"
+  },
+  {
+    "model_id": 4,
+    "article": "COIL-N55B30"
+  },
+  {
+    "model_id": 4,
+    "article": "COIL-N63B44"
+  },
+  {
+    "model_id": 4,
+    "article": "COOL-BMW-1_5L"
+  },
+  {
+    "model_id": 4,
+    "article": "COOL-BMW-5L"
+  },
+  {
+    "model_id": 4,
+    "article": "DSK-F-F10"
+  },
+  {
+    "model_id": 4,
+    "article": "DSK-R-F10"
+  },
+  {
+    "model_id": 4,
+    "article": "ENG-N55B30"
+  },
+  {
+    "model_id": 4,
+    "article": "ENG-N63B44"
+  },
+  {
+    "model_id": 4,
+    "article": "EXH-CB-F10"
+  },
+  {
+    "model_id": 4,
+    "article": "EXH-DP-F10"
+  },
+  {
+    "model_id": 4,
+    "article": "EXH-FS-F10"
+  },
+  {
+    "model_id": 4,
+    "article": "FFLT-N55B30"
+  },
+  {
+    "model_id": 4,
+    "article": "FFLT-N63B44"
+  },
+  {
+    "model_id": 4,
+    "article": "FPMP-N55B30"
+  },
+  {
+    "model_id": 4,
+    "article": "FPMP-N63B44"
+  },
+  {
+    "model_id": 4,
+    "article": "GBX-F10"
+  },
+  {
+    "model_id": 4,
+    "article": "GOIL-ZF8HP"
+  },
+  {
+    "model_id": 4,
+    "article": "HPFP-N55B30"
+  },
+  {
+    "model_id": 4,
+    "article": "HPFP-N63B44"
+  },
+  {
+    "model_id": 4,
+    "article": "INJ-N55B30"
+  },
+  {
+    "model_id": 4,
+    "article": "INJ-N63B44"
+  },
+  {
+    "model_id": 4,
+    "article": "OIL-BMW-5W30-1L"
+  },
+  {
+    "model_id": 4,
+    "article": "OIL-BMW-5W30-5L"
+  },
+  {
+    "model_id": 4,
+    "article": "OIL-BMW-5W40-1L"
+  },
+  {
+    "model_id": 4,
+    "article": "OIL-BMW-5W40-5L"
+  },
+  {
+    "model_id": 4,
+    "article": "OILKIT-N55B30"
+  },
+  {
+    "model_id": 4,
+    "article": "OILKIT-N63B44"
+  },
+  {
+    "model_id": 4,
+    "article": "PLUG-N55B30"
+  },
+  {
+    "model_id": 4,
+    "article": "PLUG-N63B44"
+  },
+  {
+    "model_id": 4,
+    "article": "TRB-N55B30"
+  },
+  {
+    "model_id": 4,
+    "article": "TRB-N63B44"
+  },
+  {
+    "model_id": 5,
+    "article": "ABS-FL-F90"
+  },
+  {
+    "model_id": 5,
+    "article": "ABS-FR-F90"
+  },
+  {
+    "model_id": 5,
+    "article": "ABS-RL-F90"
+  },
+  {
+    "model_id": 5,
+    "article": "ABS-RR-F90"
+  },
+  {
+    "model_id": 5,
+    "article": "AFLT-S63B44"
+  },
+  {
+    "model_id": 5,
+    "article": "CAB-F90"
+  },
+  {
+    "model_id": 5,
+    "article": "CLP-FL-F90"
+  },
+  {
+    "model_id": 5,
+    "article": "CLP-FR-F90"
+  },
+  {
+    "model_id": 5,
+    "article": "CLP-RL-F90"
+  },
+  {
+    "model_id": 5,
+    "article": "CLP-RR-F90"
+  },
+  {
+    "model_id": 5,
+    "article": "COIL-S63B44"
+  },
+  {
+    "model_id": 5,
+    "article": "COOL-BMW-1_5L"
+  },
+  {
+    "model_id": 5,
+    "article": "COOL-BMW-5L"
+  },
+  {
+    "model_id": 5,
+    "article": "DSK-F-CC-F90"
+  },
+  {
+    "model_id": 5,
+    "article": "DSK-F-F90"
+  },
+  {
+    "model_id": 5,
+    "article": "DSK-R-CC-F90"
+  },
+  {
+    "model_id": 5,
+    "article": "DSK-R-F90"
+  },
+  {
+    "model_id": 5,
+    "article": "ENG-S63B44"
+  },
+  {
+    "model_id": 5,
+    "article": "EXH-CB-F90"
+  },
+  {
+    "model_id": 5,
+    "article": "EXH-DP-F90"
+  },
+  {
+    "model_id": 5,
+    "article": "EXH-FS-F90"
+  },
+  {
+    "model_id": 5,
+    "article": "FFLT-S63B44"
+  },
+  {
+    "model_id": 5,
+    "article": "FPMP-S63B44"
+  },
+  {
+    "model_id": 5,
+    "article": "GBX-F90"
+  },
+  {
+    "model_id": 5,
+    "article": "GOIL-ZF8HP"
+  },
+  {
+    "model_id": 5,
+    "article": "HPFP-S63B44"
+  },
+  {
+    "model_id": 5,
+    "article": "INJ-S63B44"
+  },
+  {
+    "model_id": 5,
+    "article": "OIL-BMW-5W30-1L"
+  },
+  {
+    "model_id": 5,
+    "article": "OIL-BMW-5W30-5L"
+  },
+  {
+    "model_id": 5,
+    "article": "OIL-BMW-5W40-1L"
+  },
+  {
+    "model_id": 5,
+    "article": "OIL-BMW-5W40-5L"
+  },
+  {
+    "model_id": 5,
+    "article": "OILKIT-S63B44"
+  },
+  {
+    "model_id": 5,
+    "article": "PLUG-S63B44"
+  },
+  {
+    "model_id": 5,
+    "article": "TRB-S63B44"
+  },
+  {
+    "model_id": 6,
+    "article": "ABS-FL-G30"
+  },
+  {
+    "model_id": 6,
+    "article": "ABS-FR-G30"
+  },
+  {
+    "model_id": 6,
+    "article": "ABS-RL-G30"
+  },
+  {
+    "model_id": 6,
+    "article": "ABS-RR-G30"
+  },
+  {
+    "model_id": 6,
+    "article": "AFLT-B48B20"
+  },
+  {
+    "model_id": 6,
+    "article": "AFLT-B58B30"
+  },
+  {
+    "model_id": 6,
+    "article": "CAB-G30"
+  },
+  {
+    "model_id": 6,
+    "article": "CLP-FL-G30"
+  },
+  {
+    "model_id": 6,
+    "article": "CLP-FR-G30"
+  },
+  {
+    "model_id": 6,
+    "article": "CLP-RL-G30"
+  },
+  {
+    "model_id": 6,
+    "article": "CLP-RR-G30"
+  },
+  {
+    "model_id": 6,
+    "article": "COIL-B48B20"
+  },
+  {
+    "model_id": 6,
+    "article": "COIL-B58B30"
+  },
+  {
+    "model_id": 6,
+    "article": "COOL-BMW-1_5L"
+  },
+  {
+    "model_id": 6,
+    "article": "COOL-BMW-5L"
+  },
+  {
+    "model_id": 6,
+    "article": "DSK-F-G30"
+  },
+  {
+    "model_id": 6,
+    "article": "DSK-R-G30"
+  },
+  {
+    "model_id": 6,
+    "article": "ENG-B48B20"
+  },
+  {
+    "model_id": 6,
+    "article": "ENG-B58B30"
+  },
+  {
+    "model_id": 6,
+    "article": "EXH-CB-G30"
+  },
+  {
+    "model_id": 6,
+    "article": "EXH-DP-G30"
+  },
+  {
+    "model_id": 6,
+    "article": "EXH-FS-G30"
+  },
+  {
+    "model_id": 6,
+    "article": "FFLT-B48B20"
+  },
+  {
+    "model_id": 6,
+    "article": "FFLT-B58B30"
+  },
+  {
+    "model_id": 6,
+    "article": "FPMP-B48B20"
+  },
+  {
+    "model_id": 6,
+    "article": "FPMP-B58B30"
+  },
+  {
+    "model_id": 6,
+    "article": "GBX-G30"
+  },
+  {
+    "model_id": 6,
+    "article": "GOIL-ZF8HP"
+  },
+  {
+    "model_id": 6,
+    "article": "HPFP-B48B20"
+  },
+  {
+    "model_id": 6,
+    "article": "HPFP-B58B30"
+  },
+  {
+    "model_id": 6,
+    "article": "INJ-B48B20"
+  },
+  {
+    "model_id": 6,
+    "article": "INJ-B58B30"
+  },
+  {
+    "model_id": 6,
+    "article": "OIL-BMW-5W30-1L"
+  },
+  {
+    "model_id": 6,
+    "article": "OIL-BMW-5W30-5L"
+  },
+  {
+    "model_id": 6,
+    "article": "OIL-BMW-5W40-1L"
+  },
+  {
+    "model_id": 6,
+    "article": "OIL-BMW-5W40-5L"
+  },
+  {
+    "model_id": 6,
+    "article": "OILKIT-B48B20"
+  },
+  {
+    "model_id": 6,
+    "article": "OILKIT-B58B30"
+  },
+  {
+    "model_id": 6,
+    "article": "PLUG-B48B20"
+  },
+  {
+    "model_id": 6,
+    "article": "PLUG-B58B30"
+  },
+  {
+    "model_id": 6,
+    "article": "TRB-B48B20"
+  },
+  {
+    "model_id": 6,
+    "article": "TRB-B58B30"
+  },
+  {
+    "model_id": 7,
+    "article": "ABS-FL-G90"
+  },
+  {
+    "model_id": 7,
+    "article": "ABS-FR-G90"
+  },
+  {
+    "model_id": 7,
+    "article": "ABS-RL-G90"
+  },
+  {
+    "model_id": 7,
+    "article": "ABS-RR-G90"
+  },
+  {
+    "model_id": 7,
+    "article": "AFLT-S68B44"
+  },
+  {
+    "model_id": 7,
+    "article": "CAB-G90"
+  },
+  {
+    "model_id": 7,
+    "article": "CLP-FL-G90"
+  },
+  {
+    "model_id": 7,
+    "article": "CLP-FR-G90"
+  },
+  {
+    "model_id": 7,
+    "article": "CLP-RL-G90"
+  },
+  {
+    "model_id": 7,
+    "article": "CLP-RR-G90"
+  },
+  {
+    "model_id": 7,
+    "article": "COIL-S68B44"
+  },
+  {
+    "model_id": 7,
+    "article": "COOL-BMW-1_5L"
+  },
+  {
+    "model_id": 7,
+    "article": "COOL-BMW-5L"
+  },
+  {
+    "model_id": 7,
+    "article": "DSK-F-CC-G90"
+  },
+  {
+    "model_id": 7,
+    "article": "DSK-F-G90"
+  },
+  {
+    "model_id": 7,
+    "article": "DSK-R-CC-G90"
+  },
+  {
+    "model_id": 7,
+    "article": "DSK-R-G90"
+  },
+  {
+    "model_id": 7,
+    "article": "ENG-S68B44"
+  },
+  {
+    "model_id": 7,
+    "article": "EXH-CB-G90"
+  },
+  {
+    "model_id": 7,
+    "article": "EXH-DP-G90"
+  },
+  {
+    "model_id": 7,
+    "article": "EXH-FS-G90"
+  },
+  {
+    "model_id": 7,
+    "article": "FFLT-S68B44"
+  },
+  {
+    "model_id": 7,
+    "article": "FPMP-S68B44"
+  },
+  {
+    "model_id": 7,
+    "article": "GBX-G90"
+  },
+  {
+    "model_id": 7,
+    "article": "GOIL-ZF8HP"
+  },
+  {
+    "model_id": 7,
+    "article": "HPFP-S68B44"
+  },
+  {
+    "model_id": 7,
+    "article": "INJ-S68B44"
+  },
+  {
+    "model_id": 7,
+    "article": "OIL-BMW-5W30-1L"
+  },
+  {
+    "model_id": 7,
+    "article": "OIL-BMW-5W30-5L"
+  },
+  {
+    "model_id": 7,
+    "article": "OIL-BMW-5W40-1L"
+  },
+  {
+    "model_id": 7,
+    "article": "OIL-BMW-5W40-5L"
+  },
+  {
+    "model_id": 7,
+    "article": "OILKIT-S68B44"
+  },
+  {
+    "model_id": 7,
+    "article": "PLUG-S68B44"
+  },
+  {
+    "model_id": 7,
+    "article": "TRB-S68B44"
+  },
+  {
+    "model_id": 8,
+    "article": "ABS-FL-G42"
+  },
+  {
+    "model_id": 8,
+    "article": "ABS-FR-G42"
+  },
+  {
+    "model_id": 8,
+    "article": "ABS-RL-G42"
+  },
+  {
+    "model_id": 8,
+    "article": "ABS-RR-G42"
+  },
+  {
+    "model_id": 8,
+    "article": "AFLT-B48B20"
+  },
+  {
+    "model_id": 8,
+    "article": "AFLT-B58B30"
+  },
+  {
+    "model_id": 8,
+    "article": "CAB-G42"
+  },
+  {
+    "model_id": 8,
+    "article": "CLP-FL-G42"
+  },
+  {
+    "model_id": 8,
+    "article": "CLP-FR-G42"
+  },
+  {
+    "model_id": 8,
+    "article": "CLP-RL-G42"
+  },
+  {
+    "model_id": 8,
+    "article": "CLP-RR-G42"
+  },
+  {
+    "model_id": 8,
+    "article": "COIL-B48B20"
+  },
+  {
+    "model_id": 8,
+    "article": "COIL-B58B30"
+  },
+  {
+    "model_id": 8,
+    "article": "COOL-BMW-1_5L"
+  },
+  {
+    "model_id": 8,
+    "article": "COOL-BMW-5L"
+  },
+  {
+    "model_id": 8,
+    "article": "DSK-F-G42"
+  },
+  {
+    "model_id": 8,
+    "article": "DSK-R-G42"
+  },
+  {
+    "model_id": 8,
+    "article": "ENG-B48B20"
+  },
+  {
+    "model_id": 8,
+    "article": "ENG-B58B30"
+  },
+  {
+    "model_id": 8,
+    "article": "EXH-CB-G42"
+  },
+  {
+    "model_id": 8,
+    "article": "EXH-DP-G42"
+  },
+  {
+    "model_id": 8,
+    "article": "EXH-FS-G42"
+  },
+  {
+    "model_id": 8,
+    "article": "FFLT-B48B20"
+  },
+  {
+    "model_id": 8,
+    "article": "FFLT-B58B30"
+  },
+  {
+    "model_id": 8,
+    "article": "FPMP-B48B20"
+  },
+  {
+    "model_id": 8,
+    "article": "FPMP-B58B30"
+  },
+  {
+    "model_id": 8,
+    "article": "GBX-G42"
+  },
+  {
+    "model_id": 8,
+    "article": "GOIL-ZF8HP"
+  },
+  {
+    "model_id": 8,
+    "article": "HPFP-B48B20"
+  },
+  {
+    "model_id": 8,
+    "article": "HPFP-B58B30"
+  },
+  {
+    "model_id": 8,
+    "article": "INJ-B48B20"
+  },
+  {
+    "model_id": 8,
+    "article": "INJ-B58B30"
+  },
+  {
+    "model_id": 8,
+    "article": "OIL-BMW-5W30-1L"
+  },
+  {
+    "model_id": 8,
+    "article": "OIL-BMW-5W30-5L"
+  },
+  {
+    "model_id": 8,
+    "article": "OIL-BMW-5W40-1L"
+  },
+  {
+    "model_id": 8,
+    "article": "OIL-BMW-5W40-5L"
+  },
+  {
+    "model_id": 8,
+    "article": "OILKIT-B48B20"
+  },
+  {
+    "model_id": 8,
+    "article": "OILKIT-B58B30"
+  },
+  {
+    "model_id": 8,
+    "article": "PLUG-B48B20"
+  },
+  {
+    "model_id": 8,
+    "article": "PLUG-B58B30"
+  },
+  {
+    "model_id": 8,
+    "article": "TRB-B48B20"
+  },
+  {
+    "model_id": 8,
+    "article": "TRB-B58B30"
+  },
+  {
+    "model_id": 9,
+    "article": "ABS-FL-E90"
+  },
+  {
+    "model_id": 9,
+    "article": "ABS-FR-E90"
+  },
+  {
+    "model_id": 9,
+    "article": "ABS-RL-E90"
+  },
+  {
+    "model_id": 9,
+    "article": "ABS-RR-E90"
+  },
+  {
+    "model_id": 9,
+    "article": "AFLT-N52B30"
+  },
+  {
+    "model_id": 9,
+    "article": "AFLT-N54B30"
+  },
+  {
+    "model_id": 9,
+    "article": "CAB-E90"
+  },
+  {
+    "model_id": 9,
+    "article": "CLP-FL-E90"
+  },
+  {
+    "model_id": 9,
+    "article": "CLP-FR-E90"
+  },
+  {
+    "model_id": 9,
+    "article": "CLP-RL-E90"
+  },
+  {
+    "model_id": 9,
+    "article": "CLP-RR-E90"
+  },
+  {
+    "model_id": 9,
+    "article": "COIL-N52B30"
+  },
+  {
+    "model_id": 9,
+    "article": "COIL-N54B30"
+  },
+  {
+    "model_id": 9,
+    "article": "COOL-BMW-1_5L"
+  },
+  {
+    "model_id": 9,
+    "article": "COOL-BMW-5L"
+  },
+  {
+    "model_id": 9,
+    "article": "DSK-F-E90"
+  },
+  {
+    "model_id": 9,
+    "article": "DSK-R-E90"
+  },
+  {
+    "model_id": 9,
+    "article": "ENG-N52B30"
+  },
+  {
+    "model_id": 9,
+    "article": "ENG-N54B30"
+  },
+  {
+    "model_id": 9,
+    "article": "EXH-CB-E90"
+  },
+  {
+    "model_id": 9,
+    "article": "EXH-DP-E90"
+  },
+  {
+    "model_id": 9,
+    "article": "EXH-FS-E90"
+  },
+  {
+    "model_id": 9,
+    "article": "FFLT-N52B30"
+  },
+  {
+    "model_id": 9,
+    "article": "FFLT-N54B30"
+  },
+  {
+    "model_id": 9,
+    "article": "FPMP-N52B30"
+  },
+  {
+    "model_id": 9,
+    "article": "FPMP-N54B30"
+  },
+  {
+    "model_id": 9,
+    "article": "GBX-E90"
+  },
+  {
+    "model_id": 9,
+    "article": "GOIL-ZF6HP"
+  },
+  {
+    "model_id": 9,
+    "article": "HPFP-N54B30"
+  },
+  {
+    "model_id": 9,
+    "article": "INJ-N52B30"
+  },
+  {
+    "model_id": 9,
+    "article": "INJ-N54B30"
+  },
+  {
+    "model_id": 9,
+    "article": "OIL-BMW-5W30-1L"
+  },
+  {
+    "model_id": 9,
+    "article": "OIL-BMW-5W30-5L"
+  },
+  {
+    "model_id": 9,
+    "article": "OIL-BMW-5W40-1L"
+  },
+  {
+    "model_id": 9,
+    "article": "OIL-BMW-5W40-5L"
+  },
+  {
+    "model_id": 9,
+    "article": "OILKIT-N52B30"
+  },
+  {
+    "model_id": 9,
+    "article": "OILKIT-N54B30"
+  },
+  {
+    "model_id": 9,
+    "article": "PLUG-N52B30"
+  },
+  {
+    "model_id": 9,
+    "article": "PLUG-N54B30"
+  },
+  {
+    "model_id": 9,
+    "article": "TRB-N54B30"
+  },
+  {
+    "model_id": 10,
+    "article": "ABS-FL-G20"
+  },
+  {
+    "model_id": 10,
+    "article": "ABS-FR-G20"
+  },
+  {
+    "model_id": 10,
+    "article": "ABS-RL-G20"
+  },
+  {
+    "model_id": 10,
+    "article": "ABS-RR-G20"
+  },
+  {
+    "model_id": 10,
+    "article": "AFLT-B48B20"
+  },
+  {
+    "model_id": 10,
+    "article": "AFLT-B58B30"
+  },
+  {
+    "model_id": 10,
+    "article": "CAB-G20"
+  },
+  {
+    "model_id": 10,
+    "article": "CLP-FL-G20"
+  },
+  {
+    "model_id": 10,
+    "article": "CLP-FR-G20"
+  },
+  {
+    "model_id": 10,
+    "article": "CLP-RL-G20"
+  },
+  {
+    "model_id": 10,
+    "article": "CLP-RR-G20"
+  },
+  {
+    "model_id": 10,
+    "article": "COIL-B48B20"
+  },
+  {
+    "model_id": 10,
+    "article": "COIL-B58B30"
+  },
+  {
+    "model_id": 10,
+    "article": "COOL-BMW-1_5L"
+  },
+  {
+    "model_id": 10,
+    "article": "COOL-BMW-5L"
+  },
+  {
+    "model_id": 10,
+    "article": "DSK-F-G20"
+  },
+  {
+    "model_id": 10,
+    "article": "DSK-R-G20"
+  },
+  {
+    "model_id": 10,
+    "article": "ENG-B48B20"
+  },
+  {
+    "model_id": 10,
+    "article": "ENG-B58B30"
+  },
+  {
+    "model_id": 10,
+    "article": "EXH-CB-G20"
+  },
+  {
+    "model_id": 10,
+    "article": "EXH-DP-G20"
+  },
+  {
+    "model_id": 10,
+    "article": "EXH-FS-G20"
+  },
+  {
+    "model_id": 10,
+    "article": "FFLT-B48B20"
+  },
+  {
+    "model_id": 10,
+    "article": "FFLT-B58B30"
+  },
+  {
+    "model_id": 10,
+    "article": "FPMP-B48B20"
+  },
+  {
+    "model_id": 10,
+    "article": "FPMP-B58B30"
+  },
+  {
+    "model_id": 10,
+    "article": "GBX-G20"
+  },
+  {
+    "model_id": 10,
+    "article": "GOIL-ZF8HP"
+  },
+  {
+    "model_id": 10,
+    "article": "HPFP-B48B20"
+  },
+  {
+    "model_id": 10,
+    "article": "HPFP-B58B30"
+  },
+  {
+    "model_id": 10,
+    "article": "INJ-B48B20"
+  },
+  {
+    "model_id": 10,
+    "article": "INJ-B58B30"
+  },
+  {
+    "model_id": 10,
+    "article": "OIL-BMW-5W30-1L"
+  },
+  {
+    "model_id": 10,
+    "article": "OIL-BMW-5W30-5L"
+  },
+  {
+    "model_id": 10,
+    "article": "OIL-BMW-5W40-1L"
+  },
+  {
+    "model_id": 10,
+    "article": "OIL-BMW-5W40-5L"
+  },
+  {
+    "model_id": 10,
+    "article": "OILKIT-B48B20"
+  },
+  {
+    "model_id": 10,
+    "article": "OILKIT-B58B30"
+  },
+  {
+    "model_id": 10,
+    "article": "PLUG-B48B20"
+  },
+  {
+    "model_id": 10,
+    "article": "PLUG-B58B30"
+  },
+  {
+    "model_id": 10,
+    "article": "TRB-B48B20"
+  },
+  {
+    "model_id": 10,
+    "article": "TRB-B58B30"
+  },
+  {
+    "model_id": 11,
+    "article": "ABS-FL-G80"
+  },
+  {
+    "model_id": 11,
+    "article": "ABS-FR-G80"
+  },
+  {
+    "model_id": 11,
+    "article": "ABS-RL-G80"
+  },
+  {
+    "model_id": 11,
+    "article": "ABS-RR-G80"
+  },
+  {
+    "model_id": 11,
+    "article": "AFLT-S58B30"
+  },
+  {
+    "model_id": 11,
+    "article": "CAB-G80"
+  },
+  {
+    "model_id": 11,
+    "article": "CLP-FL-G80"
+  },
+  {
+    "model_id": 11,
+    "article": "CLP-FR-G80"
+  },
+  {
+    "model_id": 11,
+    "article": "CLP-RL-G80"
+  },
+  {
+    "model_id": 11,
+    "article": "CLP-RR-G80"
+  },
+  {
+    "model_id": 11,
+    "article": "COIL-S58B30"
+  },
+  {
+    "model_id": 11,
+    "article": "COOL-BMW-1_5L"
+  },
+  {
+    "model_id": 11,
+    "article": "COOL-BMW-5L"
+  },
+  {
+    "model_id": 11,
+    "article": "DSK-F-CC-G80"
+  },
+  {
+    "model_id": 11,
+    "article": "DSK-F-G80"
+  },
+  {
+    "model_id": 11,
+    "article": "DSK-R-CC-G80"
+  },
+  {
+    "model_id": 11,
+    "article": "DSK-R-G80"
+  },
+  {
+    "model_id": 11,
+    "article": "ENG-S58B30"
+  },
+  {
+    "model_id": 11,
+    "article": "EXH-CB-G80"
+  },
+  {
+    "model_id": 11,
+    "article": "EXH-DP-G80"
+  },
+  {
+    "model_id": 11,
+    "article": "EXH-FS-G80"
+  },
+  {
+    "model_id": 11,
+    "article": "FFLT-S58B30"
+  },
+  {
+    "model_id": 11,
+    "article": "FPMP-S58B30"
+  },
+  {
+    "model_id": 11,
+    "article": "GBX-G80"
+  },
+  {
+    "model_id": 11,
+    "article": "GOIL-ZF8HP"
+  },
+  {
+    "model_id": 11,
+    "article": "HPFP-S58B30"
+  },
+  {
+    "model_id": 11,
+    "article": "INJ-S58B30"
+  },
+  {
+    "model_id": 11,
+    "article": "OIL-BMW-5W30-1L"
+  },
+  {
+    "model_id": 11,
+    "article": "OIL-BMW-5W30-5L"
+  },
+  {
+    "model_id": 11,
+    "article": "OIL-BMW-5W40-1L"
+  },
+  {
+    "model_id": 11,
+    "article": "OIL-BMW-5W40-5L"
+  },
+  {
+    "model_id": 11,
+    "article": "OILKIT-S58B30"
+  },
+  {
+    "model_id": 11,
+    "article": "PLUG-S58B30"
+  },
+  {
+    "model_id": 11,
+    "article": "TRB-S58B30"
+  },
+  {
+    "model_id": 12,
+    "article": "ABS-FL-G82"
+  },
+  {
+    "model_id": 12,
+    "article": "ABS-FR-G82"
+  },
+  {
+    "model_id": 12,
+    "article": "ABS-RL-G82"
+  },
+  {
+    "model_id": 12,
+    "article": "ABS-RR-G82"
+  },
+  {
+    "model_id": 12,
+    "article": "AFLT-S58B30"
+  },
+  {
+    "model_id": 12,
+    "article": "CAB-G82"
+  },
+  {
+    "model_id": 12,
+    "article": "CLP-FL-G82"
+  },
+  {
+    "model_id": 12,
+    "article": "CLP-FR-G82"
+  },
+  {
+    "model_id": 12,
+    "article": "CLP-RL-G82"
+  },
+  {
+    "model_id": 12,
+    "article": "CLP-RR-G82"
+  },
+  {
+    "model_id": 12,
+    "article": "COIL-S58B30"
+  },
+  {
+    "model_id": 12,
+    "article": "COOL-BMW-1_5L"
+  },
+  {
+    "model_id": 12,
+    "article": "COOL-BMW-5L"
+  },
+  {
+    "model_id": 12,
+    "article": "DSK-F-CC-G82"
+  },
+  {
+    "model_id": 12,
+    "article": "DSK-F-G82"
+  },
+  {
+    "model_id": 12,
+    "article": "DSK-R-CC-G82"
+  },
+  {
+    "model_id": 12,
+    "article": "DSK-R-G82"
+  },
+  {
+    "model_id": 12,
+    "article": "ENG-S58B30"
+  },
+  {
+    "model_id": 12,
+    "article": "EXH-CB-G82"
+  },
+  {
+    "model_id": 12,
+    "article": "EXH-DP-G82"
+  },
+  {
+    "model_id": 12,
+    "article": "EXH-FS-G82"
+  },
+  {
+    "model_id": 12,
+    "article": "FFLT-S58B30"
+  },
+  {
+    "model_id": 12,
+    "article": "FPMP-S58B30"
+  },
+  {
+    "model_id": 12,
+    "article": "GBX-G82"
+  },
+  {
+    "model_id": 12,
+    "article": "GOIL-ZF8HP"
+  },
+  {
+    "model_id": 12,
+    "article": "HPFP-S58B30"
+  },
+  {
+    "model_id": 12,
+    "article": "INJ-S58B30"
+  },
+  {
+    "model_id": 12,
+    "article": "OIL-BMW-5W30-1L"
+  },
+  {
+    "model_id": 12,
+    "article": "OIL-BMW-5W30-5L"
+  },
+  {
+    "model_id": 12,
+    "article": "OIL-BMW-5W40-1L"
+  },
+  {
+    "model_id": 12,
+    "article": "OIL-BMW-5W40-5L"
+  },
+  {
+    "model_id": 12,
+    "article": "OILKIT-S58B30"
+  },
+  {
+    "model_id": 12,
+    "article": "PLUG-S58B30"
+  },
+  {
+    "model_id": 12,
+    "article": "TRB-S58B30"
+  },
+  {
+    "model_id": 13,
+    "article": "ABS-FL-F82"
+  },
+  {
+    "model_id": 13,
+    "article": "ABS-FR-F82"
+  },
+  {
+    "model_id": 13,
+    "article": "ABS-RL-F82"
+  },
+  {
+    "model_id": 13,
+    "article": "ABS-RR-F82"
+  },
+  {
+    "model_id": 13,
+    "article": "AFLT-S55B30"
+  },
+  {
+    "model_id": 13,
+    "article": "CAB-F82"
+  },
+  {
+    "model_id": 13,
+    "article": "CLP-FL-F82"
+  },
+  {
+    "model_id": 13,
+    "article": "CLP-FR-F82"
+  },
+  {
+    "model_id": 13,
+    "article": "CLP-RL-F82"
+  },
+  {
+    "model_id": 13,
+    "article": "CLP-RR-F82"
+  },
+  {
+    "model_id": 13,
+    "article": "COIL-S55B30"
+  },
+  {
+    "model_id": 13,
+    "article": "COOL-BMW-1_5L"
+  },
+  {
+    "model_id": 13,
+    "article": "COOL-BMW-5L"
+  },
+  {
+    "model_id": 13,
+    "article": "DSK-F-CC-F82"
+  },
+  {
+    "model_id": 13,
+    "article": "DSK-F-F82"
+  },
+  {
+    "model_id": 13,
+    "article": "DSK-R-CC-F82"
+  },
+  {
+    "model_id": 13,
+    "article": "DSK-R-F82"
+  },
+  {
+    "model_id": 13,
+    "article": "ENG-S55B30"
+  },
+  {
+    "model_id": 13,
+    "article": "EXH-CB-F82"
+  },
+  {
+    "model_id": 13,
+    "article": "EXH-DP-F82"
+  },
+  {
+    "model_id": 13,
+    "article": "EXH-FS-F82"
+  },
+  {
+    "model_id": 13,
+    "article": "FFLT-S55B30"
+  },
+  {
+    "model_id": 13,
+    "article": "FPMP-S55B30"
+  },
+  {
+    "model_id": 13,
+    "article": "GBX-F82"
+  },
+  {
+    "model_id": 13,
+    "article": "GOIL-BMWDCT"
+  },
+  {
+    "model_id": 13,
+    "article": "HPFP-S55B30"
+  },
+  {
+    "model_id": 13,
+    "article": "INJ-S55B30"
+  },
+  {
+    "model_id": 13,
+    "article": "OIL-BMW-5W30-1L"
+  },
+  {
+    "model_id": 13,
+    "article": "OIL-BMW-5W30-5L"
+  },
+  {
+    "model_id": 13,
+    "article": "OIL-BMW-5W40-1L"
+  },
+  {
+    "model_id": 13,
+    "article": "OIL-BMW-5W40-5L"
+  },
+  {
+    "model_id": 13,
+    "article": "OILKIT-S55B30"
+  },
+  {
+    "model_id": 13,
+    "article": "PLUG-S55B30"
+  },
+  {
+    "model_id": 13,
+    "article": "TRB-S55B30"
+  },
+  {
+    "model_id": 14,
+    "article": "ABS-FL-W212"
+  },
+  {
+    "model_id": 14,
+    "article": "ABS-FR-W212"
+  },
+  {
+    "model_id": 14,
+    "article": "ABS-RL-W212"
+  },
+  {
+    "model_id": 14,
+    "article": "ABS-RR-W212"
+  },
+  {
+    "model_id": 14,
+    "article": "AFLT-M157"
+  },
+  {
+    "model_id": 14,
+    "article": "AFLT-M276_35"
+  },
+  {
+    "model_id": 14,
+    "article": "CAB-W212"
+  },
+  {
+    "model_id": 14,
+    "article": "CLP-FL-W212"
+  },
+  {
+    "model_id": 14,
+    "article": "CLP-FR-W212"
+  },
+  {
+    "model_id": 14,
+    "article": "CLP-RL-W212"
+  },
+  {
+    "model_id": 14,
+    "article": "CLP-RR-W212"
+  },
+  {
+    "model_id": 14,
+    "article": "COIL-M157"
+  },
+  {
+    "model_id": 14,
+    "article": "COIL-M276_35"
+  },
+  {
+    "model_id": 14,
+    "article": "COOL-MERCEDES-1_5L"
+  },
+  {
+    "model_id": 14,
+    "article": "COOL-MERCEDES-5L"
+  },
+  {
+    "model_id": 14,
+    "article": "DSK-F-W212"
+  },
+  {
+    "model_id": 14,
+    "article": "DSK-R-W212"
+  },
+  {
+    "model_id": 14,
+    "article": "ENG-M157"
+  },
+  {
+    "model_id": 14,
+    "article": "ENG-M276_35"
+  },
+  {
+    "model_id": 14,
+    "article": "EXH-CB-W212"
+  },
+  {
+    "model_id": 14,
+    "article": "EXH-DP-W212"
+  },
+  {
+    "model_id": 14,
+    "article": "EXH-FS-W212"
+  },
+  {
+    "model_id": 14,
+    "article": "FFLT-M157"
+  },
+  {
+    "model_id": 14,
+    "article": "FFLT-M276_35"
+  },
+  {
+    "model_id": 14,
+    "article": "FPMP-M157"
+  },
+  {
+    "model_id": 14,
+    "article": "FPMP-M276_35"
+  },
+  {
+    "model_id": 14,
+    "article": "GBX-W212"
+  },
+  {
+    "model_id": 14,
+    "article": "GOIL-MB7G"
+  },
+  {
+    "model_id": 14,
+    "article": "HPFP-M157"
+  },
+  {
+    "model_id": 14,
+    "article": "HPFP-M276_35"
+  },
+  {
+    "model_id": 14,
+    "article": "INJ-M157"
+  },
+  {
+    "model_id": 14,
+    "article": "INJ-M276_35"
+  },
+  {
+    "model_id": 14,
+    "article": "OIL-MERCEDES-5W30-1L"
+  },
+  {
+    "model_id": 14,
+    "article": "OIL-MERCEDES-5W30-5L"
+  },
+  {
+    "model_id": 14,
+    "article": "OIL-MERCEDES-5W40-1L"
+  },
+  {
+    "model_id": 14,
+    "article": "OIL-MERCEDES-5W40-5L"
+  },
+  {
+    "model_id": 14,
+    "article": "OILKIT-M157"
+  },
+  {
+    "model_id": 14,
+    "article": "OILKIT-M276_35"
+  },
+  {
+    "model_id": 14,
+    "article": "PLUG-M157"
+  },
+  {
+    "model_id": 14,
+    "article": "PLUG-M276_35"
+  },
+  {
+    "model_id": 14,
+    "article": "TRB-M157"
+  },
+  {
+    "model_id": 15,
+    "article": "ABS-FL-W213"
+  },
+  {
+    "model_id": 15,
+    "article": "ABS-FR-W213"
+  },
+  {
+    "model_id": 15,
+    "article": "ABS-RL-W213"
+  },
+  {
+    "model_id": 15,
+    "article": "ABS-RR-W213"
+  },
+  {
+    "model_id": 15,
+    "article": "AFLT-M256"
+  },
+  {
+    "model_id": 15,
+    "article": "AFLT-M264"
+  },
+  {
+    "model_id": 15,
+    "article": "CAB-W213"
+  },
+  {
+    "model_id": 15,
+    "article": "CLP-FL-W213"
+  },
+  {
+    "model_id": 15,
+    "article": "CLP-FR-W213"
+  },
+  {
+    "model_id": 15,
+    "article": "CLP-RL-W213"
+  },
+  {
+    "model_id": 15,
+    "article": "CLP-RR-W213"
+  },
+  {
+    "model_id": 15,
+    "article": "COIL-M256"
+  },
+  {
+    "model_id": 15,
+    "article": "COIL-M264"
+  },
+  {
+    "model_id": 15,
+    "article": "COOL-MERCEDES-1_5L"
+  },
+  {
+    "model_id": 15,
+    "article": "COOL-MERCEDES-5L"
+  },
+  {
+    "model_id": 15,
+    "article": "DSK-F-W213"
+  },
+  {
+    "model_id": 15,
+    "article": "DSK-R-W213"
+  },
+  {
+    "model_id": 15,
+    "article": "ENG-M256"
+  },
+  {
+    "model_id": 15,
+    "article": "ENG-M264"
+  },
+  {
+    "model_id": 15,
+    "article": "EXH-CB-W213"
+  },
+  {
+    "model_id": 15,
+    "article": "EXH-DP-W213"
+  },
+  {
+    "model_id": 15,
+    "article": "EXH-FS-W213"
+  },
+  {
+    "model_id": 15,
+    "article": "FFLT-M256"
+  },
+  {
+    "model_id": 15,
+    "article": "FFLT-M264"
+  },
+  {
+    "model_id": 15,
+    "article": "FPMP-M256"
+  },
+  {
+    "model_id": 15,
+    "article": "FPMP-M264"
+  },
+  {
+    "model_id": 15,
+    "article": "GBX-W213"
+  },
+  {
+    "model_id": 15,
+    "article": "GOIL-MB9G"
+  },
+  {
+    "model_id": 15,
+    "article": "HPFP-M256"
+  },
+  {
+    "model_id": 15,
+    "article": "HPFP-M264"
+  },
+  {
+    "model_id": 15,
+    "article": "INJ-M256"
+  },
+  {
+    "model_id": 15,
+    "article": "INJ-M264"
+  },
+  {
+    "model_id": 15,
+    "article": "OIL-MERCEDES-5W30-1L"
+  },
+  {
+    "model_id": 15,
+    "article": "OIL-MERCEDES-5W30-5L"
+  },
+  {
+    "model_id": 15,
+    "article": "OIL-MERCEDES-5W40-1L"
+  },
+  {
+    "model_id": 15,
+    "article": "OIL-MERCEDES-5W40-5L"
+  },
+  {
+    "model_id": 15,
+    "article": "OILKIT-M256"
+  },
+  {
+    "model_id": 15,
+    "article": "OILKIT-M264"
+  },
+  {
+    "model_id": 15,
+    "article": "PLUG-M256"
+  },
+  {
+    "model_id": 15,
+    "article": "PLUG-M264"
+  },
+  {
+    "model_id": 15,
+    "article": "TRB-M256"
+  },
+  {
+    "model_id": 15,
+    "article": "TRB-M264"
+  },
+  {
+    "model_id": 16,
+    "article": "ABS-FL-W221"
+  },
+  {
+    "model_id": 16,
+    "article": "ABS-FR-W221"
+  },
+  {
+    "model_id": 16,
+    "article": "ABS-RL-W221"
+  },
+  {
+    "model_id": 16,
+    "article": "ABS-RR-W221"
+  },
+  {
+    "model_id": 16,
+    "article": "AFLT-M273"
+  },
+  {
+    "model_id": 16,
+    "article": "AFLT-M275"
+  },
+  {
+    "model_id": 16,
+    "article": "CAB-W221"
+  },
+  {
+    "model_id": 16,
+    "article": "CLP-FL-W221"
+  },
+  {
+    "model_id": 16,
+    "article": "CLP-FR-W221"
+  },
+  {
+    "model_id": 16,
+    "article": "CLP-RL-W221"
+  },
+  {
+    "model_id": 16,
+    "article": "CLP-RR-W221"
+  },
+  {
+    "model_id": 16,
+    "article": "COIL-M273"
+  },
+  {
+    "model_id": 16,
+    "article": "COIL-M275"
+  },
+  {
+    "model_id": 16,
+    "article": "COOL-MERCEDES-1_5L"
+  },
+  {
+    "model_id": 16,
+    "article": "COOL-MERCEDES-5L"
+  },
+  {
+    "model_id": 16,
+    "article": "DSK-F-W221"
+  },
+  {
+    "model_id": 16,
+    "article": "DSK-R-W221"
+  },
+  {
+    "model_id": 16,
+    "article": "ENG-M273"
+  },
+  {
+    "model_id": 16,
+    "article": "ENG-M275"
+  },
+  {
+    "model_id": 16,
+    "article": "EXH-CB-W221"
+  },
+  {
+    "model_id": 16,
+    "article": "EXH-DP-W221"
+  },
+  {
+    "model_id": 16,
+    "article": "EXH-FS-W221"
+  },
+  {
+    "model_id": 16,
+    "article": "FFLT-M273"
+  },
+  {
+    "model_id": 16,
+    "article": "FFLT-M275"
+  },
+  {
+    "model_id": 16,
+    "article": "FPMP-M273"
+  },
+  {
+    "model_id": 16,
+    "article": "FPMP-M275"
+  },
+  {
+    "model_id": 16,
+    "article": "GBX-W221"
+  },
+  {
+    "model_id": 16,
+    "article": "GOIL-MB7G"
+  },
+  {
+    "model_id": 16,
+    "article": "HPFP-M273"
+  },
+  {
+    "model_id": 16,
+    "article": "HPFP-M275"
+  },
+  {
+    "model_id": 16,
+    "article": "INJ-M273"
+  },
+  {
+    "model_id": 16,
+    "article": "INJ-M275"
+  },
+  {
+    "model_id": 16,
+    "article": "OIL-MERCEDES-5W30-1L"
+  },
+  {
+    "model_id": 16,
+    "article": "OIL-MERCEDES-5W30-5L"
+  },
+  {
+    "model_id": 16,
+    "article": "OIL-MERCEDES-5W40-1L"
+  },
+  {
+    "model_id": 16,
+    "article": "OIL-MERCEDES-5W40-5L"
+  },
+  {
+    "model_id": 16,
+    "article": "OILKIT-M273"
+  },
+  {
+    "model_id": 16,
+    "article": "OILKIT-M275"
+  },
+  {
+    "model_id": 16,
+    "article": "PLUG-M273"
+  },
+  {
+    "model_id": 16,
+    "article": "PLUG-M275"
+  },
+  {
+    "model_id": 16,
+    "article": "TRB-M275"
+  },
+  {
+    "model_id": 17,
+    "article": "ABS-FL-W222"
+  },
+  {
+    "model_id": 17,
+    "article": "ABS-FR-W222"
+  },
+  {
+    "model_id": 17,
+    "article": "ABS-RL-W222"
+  },
+  {
+    "model_id": 17,
+    "article": "ABS-RR-W222"
+  },
+  {
+    "model_id": 17,
+    "article": "AFLT-M276_30"
+  },
+  {
+    "model_id": 17,
+    "article": "AFLT-M279"
+  },
+  {
+    "model_id": 17,
+    "article": "CAB-W222"
+  },
+  {
+    "model_id": 17,
+    "article": "CLP-FL-W222"
+  },
+  {
+    "model_id": 17,
+    "article": "CLP-FR-W222"
+  },
+  {
+    "model_id": 17,
+    "article": "CLP-RL-W222"
+  },
+  {
+    "model_id": 17,
+    "article": "CLP-RR-W222"
+  },
+  {
+    "model_id": 17,
+    "article": "COIL-M276_30"
+  },
+  {
+    "model_id": 17,
+    "article": "COIL-M279"
+  },
+  {
+    "model_id": 17,
+    "article": "COOL-MERCEDES-1_5L"
+  },
+  {
+    "model_id": 17,
+    "article": "COOL-MERCEDES-5L"
+  },
+  {
+    "model_id": 17,
+    "article": "DSK-F-W222"
+  },
+  {
+    "model_id": 17,
+    "article": "DSK-R-W222"
+  },
+  {
+    "model_id": 17,
+    "article": "ENG-M276_30"
+  },
+  {
+    "model_id": 17,
+    "article": "ENG-M279"
+  },
+  {
+    "model_id": 17,
+    "article": "EXH-CB-W222"
+  },
+  {
+    "model_id": 17,
+    "article": "EXH-DP-W222"
+  },
+  {
+    "model_id": 17,
+    "article": "EXH-FS-W222"
+  },
+  {
+    "model_id": 17,
+    "article": "FFLT-M276_30"
+  },
+  {
+    "model_id": 17,
+    "article": "FFLT-M279"
+  },
+  {
+    "model_id": 17,
+    "article": "FPMP-M276_30"
+  },
+  {
+    "model_id": 17,
+    "article": "FPMP-M279"
+  },
+  {
+    "model_id": 17,
+    "article": "GBX-W222"
+  },
+  {
+    "model_id": 17,
+    "article": "GOIL-MB9G"
+  },
+  {
+    "model_id": 17,
+    "article": "HPFP-M276_30"
+  },
+  {
+    "model_id": 17,
+    "article": "HPFP-M279"
+  },
+  {
+    "model_id": 17,
+    "article": "INJ-M276_30"
+  },
+  {
+    "model_id": 17,
+    "article": "INJ-M279"
+  },
+  {
+    "model_id": 17,
+    "article": "OIL-MERCEDES-5W30-1L"
+  },
+  {
+    "model_id": 17,
+    "article": "OIL-MERCEDES-5W30-5L"
+  },
+  {
+    "model_id": 17,
+    "article": "OIL-MERCEDES-5W40-1L"
+  },
+  {
+    "model_id": 17,
+    "article": "OIL-MERCEDES-5W40-5L"
+  },
+  {
+    "model_id": 17,
+    "article": "OILKIT-M276_30"
+  },
+  {
+    "model_id": 17,
+    "article": "OILKIT-M279"
+  },
+  {
+    "model_id": 17,
+    "article": "PLUG-M276_30"
+  },
+  {
+    "model_id": 17,
+    "article": "PLUG-M279"
+  },
+  {
+    "model_id": 17,
+    "article": "TRB-M276_30"
+  },
+  {
+    "model_id": 17,
+    "article": "TRB-M279"
+  },
+  {
+    "model_id": 18,
+    "article": "ABS-FL-W223"
+  },
+  {
+    "model_id": 18,
+    "article": "ABS-FR-W223"
+  },
+  {
+    "model_id": 18,
+    "article": "ABS-RL-W223"
+  },
+  {
+    "model_id": 18,
+    "article": "ABS-RR-W223"
+  },
+  {
+    "model_id": 18,
+    "article": "AFLT-M177"
+  },
+  {
+    "model_id": 18,
+    "article": "AFLT-M256"
+  },
+  {
+    "model_id": 18,
+    "article": "CAB-W223"
+  },
+  {
+    "model_id": 18,
+    "article": "CLP-FL-W223"
+  },
+  {
+    "model_id": 18,
+    "article": "CLP-FR-W223"
+  },
+  {
+    "model_id": 18,
+    "article": "CLP-RL-W223"
+  },
+  {
+    "model_id": 18,
+    "article": "CLP-RR-W223"
+  },
+  {
+    "model_id": 18,
+    "article": "COIL-M177"
+  },
+  {
+    "model_id": 18,
+    "article": "COIL-M256"
+  },
+  {
+    "model_id": 18,
+    "article": "COOL-MERCEDES-1_5L"
+  },
+  {
+    "model_id": 18,
+    "article": "COOL-MERCEDES-5L"
+  },
+  {
+    "model_id": 18,
+    "article": "DSK-F-W223"
+  },
+  {
+    "model_id": 18,
+    "article": "DSK-R-W223"
+  },
+  {
+    "model_id": 18,
+    "article": "ENG-M177"
+  },
+  {
+    "model_id": 18,
+    "article": "ENG-M256"
+  },
+  {
+    "model_id": 18,
+    "article": "EXH-CB-W223"
+  },
+  {
+    "model_id": 18,
+    "article": "EXH-DP-W223"
+  },
+  {
+    "model_id": 18,
+    "article": "EXH-FS-W223"
+  },
+  {
+    "model_id": 18,
+    "article": "FFLT-M177"
+  },
+  {
+    "model_id": 18,
+    "article": "FFLT-M256"
+  },
+  {
+    "model_id": 18,
+    "article": "FPMP-M177"
+  },
+  {
+    "model_id": 18,
+    "article": "FPMP-M256"
+  },
+  {
+    "model_id": 18,
+    "article": "GBX-W223"
+  },
+  {
+    "model_id": 18,
+    "article": "GOIL-MB9G"
+  },
+  {
+    "model_id": 18,
+    "article": "HPFP-M177"
+  },
+  {
+    "model_id": 18,
+    "article": "HPFP-M256"
+  },
+  {
+    "model_id": 18,
+    "article": "INJ-M177"
+  },
+  {
+    "model_id": 18,
+    "article": "INJ-M256"
+  },
+  {
+    "model_id": 18,
+    "article": "OIL-MERCEDES-5W30-1L"
+  },
+  {
+    "model_id": 18,
+    "article": "OIL-MERCEDES-5W30-5L"
+  },
+  {
+    "model_id": 18,
+    "article": "OIL-MERCEDES-5W40-1L"
+  },
+  {
+    "model_id": 18,
+    "article": "OIL-MERCEDES-5W40-5L"
+  },
+  {
+    "model_id": 18,
+    "article": "OILKIT-M177"
+  },
+  {
+    "model_id": 18,
+    "article": "OILKIT-M256"
+  },
+  {
+    "model_id": 18,
+    "article": "PLUG-M177"
+  },
+  {
+    "model_id": 18,
+    "article": "PLUG-M256"
+  },
+  {
+    "model_id": 18,
+    "article": "TRB-M177"
+  },
+  {
+    "model_id": 18,
+    "article": "TRB-M256"
+  },
+  {
+    "model_id": 19,
+    "article": "ABS-FL-C292"
+  },
+  {
+    "model_id": 19,
+    "article": "ABS-FR-C292"
+  },
+  {
+    "model_id": 19,
+    "article": "ABS-RL-C292"
+  },
+  {
+    "model_id": 19,
+    "article": "ABS-RR-C292"
+  },
+  {
+    "model_id": 19,
+    "article": "AFLT-M157"
+  },
+  {
+    "model_id": 19,
+    "article": "AFLT-M276_30"
+  },
+  {
+    "model_id": 19,
+    "article": "CAB-C292"
+  },
+  {
+    "model_id": 19,
+    "article": "CLP-FL-C292"
+  },
+  {
+    "model_id": 19,
+    "article": "CLP-FR-C292"
+  },
+  {
+    "model_id": 19,
+    "article": "CLP-RL-C292"
+  },
+  {
+    "model_id": 19,
+    "article": "CLP-RR-C292"
+  },
+  {
+    "model_id": 19,
+    "article": "COIL-M157"
+  },
+  {
+    "model_id": 19,
+    "article": "COIL-M276_30"
+  },
+  {
+    "model_id": 19,
+    "article": "COOL-MERCEDES-1_5L"
+  },
+  {
+    "model_id": 19,
+    "article": "COOL-MERCEDES-5L"
+  },
+  {
+    "model_id": 19,
+    "article": "DSK-F-C292"
+  },
+  {
+    "model_id": 19,
+    "article": "DSK-F-CC-C292"
+  },
+  {
+    "model_id": 19,
+    "article": "DSK-R-C292"
+  },
+  {
+    "model_id": 19,
+    "article": "DSK-R-CC-C292"
+  },
+  {
+    "model_id": 19,
+    "article": "ENG-M157"
+  },
+  {
+    "model_id": 19,
+    "article": "ENG-M276_30"
+  },
+  {
+    "model_id": 19,
+    "article": "EXH-CB-C292"
+  },
+  {
+    "model_id": 19,
+    "article": "EXH-DP-C292"
+  },
+  {
+    "model_id": 19,
+    "article": "EXH-FS-C292"
+  },
+  {
+    "model_id": 19,
+    "article": "FFLT-M157"
+  },
+  {
+    "model_id": 19,
+    "article": "FFLT-M276_30"
+  },
+  {
+    "model_id": 19,
+    "article": "FPMP-M157"
+  },
+  {
+    "model_id": 19,
+    "article": "FPMP-M276_30"
+  },
+  {
+    "model_id": 19,
+    "article": "GBX-C292"
+  },
+  {
+    "model_id": 19,
+    "article": "GOIL-MB9G"
+  },
+  {
+    "model_id": 19,
+    "article": "HPFP-M157"
+  },
+  {
+    "model_id": 19,
+    "article": "HPFP-M276_30"
+  },
+  {
+    "model_id": 19,
+    "article": "INJ-M157"
+  },
+  {
+    "model_id": 19,
+    "article": "INJ-M276_30"
+  },
+  {
+    "model_id": 19,
+    "article": "OIL-MERCEDES-5W30-1L"
+  },
+  {
+    "model_id": 19,
+    "article": "OIL-MERCEDES-5W30-5L"
+  },
+  {
+    "model_id": 19,
+    "article": "OIL-MERCEDES-5W40-1L"
+  },
+  {
+    "model_id": 19,
+    "article": "OIL-MERCEDES-5W40-5L"
+  },
+  {
+    "model_id": 19,
+    "article": "OILKIT-M157"
+  },
+  {
+    "model_id": 19,
+    "article": "OILKIT-M276_30"
+  },
+  {
+    "model_id": 19,
+    "article": "PLUG-M157"
+  },
+  {
+    "model_id": 19,
+    "article": "PLUG-M276_30"
+  },
+  {
+    "model_id": 19,
+    "article": "TRB-M157"
+  },
+  {
+    "model_id": 19,
+    "article": "TRB-M276_30"
+  },
+  {
+    "model_id": 20,
+    "article": "ABS-FL-W205"
+  },
+  {
+    "model_id": 20,
+    "article": "ABS-FR-W205"
+  },
+  {
+    "model_id": 20,
+    "article": "ABS-RL-W205"
+  },
+  {
+    "model_id": 20,
+    "article": "ABS-RR-W205"
+  },
+  {
+    "model_id": 20,
+    "article": "AFLT-M177"
+  },
+  {
+    "model_id": 20,
+    "article": "AFLT-M274"
+  },
+  {
+    "model_id": 20,
+    "article": "CAB-W205"
+  },
+  {
+    "model_id": 20,
+    "article": "CLP-FL-W205"
+  },
+  {
+    "model_id": 20,
+    "article": "CLP-FR-W205"
+  },
+  {
+    "model_id": 20,
+    "article": "CLP-RL-W205"
+  },
+  {
+    "model_id": 20,
+    "article": "CLP-RR-W205"
+  },
+  {
+    "model_id": 20,
+    "article": "COIL-M177"
+  },
+  {
+    "model_id": 20,
+    "article": "COIL-M274"
+  },
+  {
+    "model_id": 20,
+    "article": "COOL-MERCEDES-1_5L"
+  },
+  {
+    "model_id": 20,
+    "article": "COOL-MERCEDES-5L"
+  },
+  {
+    "model_id": 20,
+    "article": "DSK-F-CC-W205"
+  },
+  {
+    "model_id": 20,
+    "article": "DSK-F-W205"
+  },
+  {
+    "model_id": 20,
+    "article": "DSK-R-CC-W205"
+  },
+  {
+    "model_id": 20,
+    "article": "DSK-R-W205"
+  },
+  {
+    "model_id": 20,
+    "article": "ENG-M177"
+  },
+  {
+    "model_id": 20,
+    "article": "ENG-M274"
+  },
+  {
+    "model_id": 20,
+    "article": "EXH-CB-W205"
+  },
+  {
+    "model_id": 20,
+    "article": "EXH-DP-W205"
+  },
+  {
+    "model_id": 20,
+    "article": "EXH-FS-W205"
+  },
+  {
+    "model_id": 20,
+    "article": "FFLT-M177"
+  },
+  {
+    "model_id": 20,
+    "article": "FFLT-M274"
+  },
+  {
+    "model_id": 20,
+    "article": "FPMP-M177"
+  },
+  {
+    "model_id": 20,
+    "article": "FPMP-M274"
+  },
+  {
+    "model_id": 20,
+    "article": "GBX-W205"
+  },
+  {
+    "model_id": 20,
+    "article": "GOIL-MB9G"
+  },
+  {
+    "model_id": 20,
+    "article": "HPFP-M177"
+  },
+  {
+    "model_id": 20,
+    "article": "HPFP-M274"
+  },
+  {
+    "model_id": 20,
+    "article": "INJ-M177"
+  },
+  {
+    "model_id": 20,
+    "article": "INJ-M274"
+  },
+  {
+    "model_id": 20,
+    "article": "OIL-MERCEDES-5W30-1L"
+  },
+  {
+    "model_id": 20,
+    "article": "OIL-MERCEDES-5W30-5L"
+  },
+  {
+    "model_id": 20,
+    "article": "OIL-MERCEDES-5W40-1L"
+  },
+  {
+    "model_id": 20,
+    "article": "OIL-MERCEDES-5W40-5L"
+  },
+  {
+    "model_id": 20,
+    "article": "OILKIT-M177"
+  },
+  {
+    "model_id": 20,
+    "article": "OILKIT-M274"
+  },
+  {
+    "model_id": 20,
+    "article": "PLUG-M177"
+  },
+  {
+    "model_id": 20,
+    "article": "PLUG-M274"
+  },
+  {
+    "model_id": 20,
+    "article": "TRB-M177"
+  },
+  {
+    "model_id": 20,
+    "article": "TRB-M274"
+  },
+  {
+    "model_id": 21,
+    "article": "ABS-FL-W206"
+  },
+  {
+    "model_id": 21,
+    "article": "ABS-FR-W206"
+  },
+  {
+    "model_id": 21,
+    "article": "ABS-RL-W206"
+  },
+  {
+    "model_id": 21,
+    "article": "ABS-RR-W206"
+  },
+  {
+    "model_id": 21,
+    "article": "AFLT-M139"
+  },
+  {
+    "model_id": 21,
+    "article": "AFLT-M254"
+  },
+  {
+    "model_id": 21,
+    "article": "CAB-W206"
+  },
+  {
+    "model_id": 21,
+    "article": "CLP-FL-W206"
+  },
+  {
+    "model_id": 21,
+    "article": "CLP-FR-W206"
+  },
+  {
+    "model_id": 21,
+    "article": "CLP-RL-W206"
+  },
+  {
+    "model_id": 21,
+    "article": "CLP-RR-W206"
+  },
+  {
+    "model_id": 21,
+    "article": "COIL-M139"
+  },
+  {
+    "model_id": 21,
+    "article": "COIL-M254"
+  },
+  {
+    "model_id": 21,
+    "article": "COOL-MERCEDES-1_5L"
+  },
+  {
+    "model_id": 21,
+    "article": "COOL-MERCEDES-5L"
+  },
+  {
+    "model_id": 21,
+    "article": "DSK-F-CC-W206"
+  },
+  {
+    "model_id": 21,
+    "article": "DSK-F-W206"
+  },
+  {
+    "model_id": 21,
+    "article": "DSK-R-CC-W206"
+  },
+  {
+    "model_id": 21,
+    "article": "DSK-R-W206"
+  },
+  {
+    "model_id": 21,
+    "article": "ENG-M139"
+  },
+  {
+    "model_id": 21,
+    "article": "ENG-M254"
+  },
+  {
+    "model_id": 21,
+    "article": "EXH-CB-W206"
+  },
+  {
+    "model_id": 21,
+    "article": "EXH-DP-W206"
+  },
+  {
+    "model_id": 21,
+    "article": "EXH-FS-W206"
+  },
+  {
+    "model_id": 21,
+    "article": "FFLT-M139"
+  },
+  {
+    "model_id": 21,
+    "article": "FFLT-M254"
+  },
+  {
+    "model_id": 21,
+    "article": "FPMP-M139"
+  },
+  {
+    "model_id": 21,
+    "article": "FPMP-M254"
+  },
+  {
+    "model_id": 21,
+    "article": "GBX-W206"
+  },
+  {
+    "model_id": 21,
+    "article": "GOIL-MB9G"
+  },
+  {
+    "model_id": 21,
+    "article": "HPFP-M139"
+  },
+  {
+    "model_id": 21,
+    "article": "HPFP-M254"
+  },
+  {
+    "model_id": 21,
+    "article": "INJ-M139"
+  },
+  {
+    "model_id": 21,
+    "article": "INJ-M254"
+  },
+  {
+    "model_id": 21,
+    "article": "OIL-MERCEDES-5W30-1L"
+  },
+  {
+    "model_id": 21,
+    "article": "OIL-MERCEDES-5W30-5L"
+  },
+  {
+    "model_id": 21,
+    "article": "OIL-MERCEDES-5W40-1L"
+  },
+  {
+    "model_id": 21,
+    "article": "OIL-MERCEDES-5W40-5L"
+  },
+  {
+    "model_id": 21,
+    "article": "OILKIT-M139"
+  },
+  {
+    "model_id": 21,
+    "article": "OILKIT-M254"
+  },
+  {
+    "model_id": 21,
+    "article": "PLUG-M139"
+  },
+  {
+    "model_id": 21,
+    "article": "PLUG-M254"
+  },
+  {
+    "model_id": 21,
+    "article": "TRB-M139"
+  },
+  {
+    "model_id": 21,
+    "article": "TRB-M254"
+  },
+  {
+    "model_id": 22,
+    "article": "ABS-FL-A6C7"
+  },
+  {
+    "model_id": 22,
+    "article": "ABS-FR-A6C7"
+  },
+  {
+    "model_id": 22,
+    "article": "ABS-RL-A6C7"
+  },
+  {
+    "model_id": 22,
+    "article": "ABS-RR-A6C7"
+  },
+  {
+    "model_id": 22,
+    "article": "AFLT-EA837_30"
+  },
+  {
+    "model_id": 22,
+    "article": "AFLT-TDI_C7"
+  },
+  {
+    "model_id": 22,
+    "article": "CAB-A6C7"
+  },
+  {
+    "model_id": 22,
+    "article": "CLP-FL-A6C7"
+  },
+  {
+    "model_id": 22,
+    "article": "CLP-FR-A6C7"
+  },
+  {
+    "model_id": 22,
+    "article": "CLP-RL-A6C7"
+  },
+  {
+    "model_id": 22,
+    "article": "CLP-RR-A6C7"
+  },
+  {
+    "model_id": 22,
+    "article": "COIL-EA837_30"
+  },
+  {
+    "model_id": 22,
+    "article": "COOL-AUDI-1_5L"
+  },
+  {
+    "model_id": 22,
+    "article": "COOL-AUDI-5L"
+  },
+  {
+    "model_id": 22,
+    "article": "DSK-F-A6C7"
+  },
+  {
+    "model_id": 22,
+    "article": "DSK-R-A6C7"
+  },
+  {
+    "model_id": 22,
+    "article": "ENG-EA837_30"
+  },
+  {
+    "model_id": 22,
+    "article": "ENG-TDI_C7"
+  },
+  {
+    "model_id": 22,
+    "article": "EXH-CB-A6C7"
+  },
+  {
+    "model_id": 22,
+    "article": "EXH-DP-A6C7"
+  },
+  {
+    "model_id": 22,
+    "article": "EXH-FS-A6C7"
+  },
+  {
+    "model_id": 22,
+    "article": "FFLT-EA837_30"
+  },
+  {
+    "model_id": 22,
+    "article": "FFLT-TDI_C7"
+  },
+  {
+    "model_id": 22,
+    "article": "FPMP-EA837_30"
+  },
+  {
+    "model_id": 22,
+    "article": "FPMP-TDI_C7"
+  },
+  {
+    "model_id": 22,
+    "article": "GBX-A6C7"
+  },
+  {
+    "model_id": 22,
+    "article": "GOIL-ZF8HP"
+  },
+  {
+    "model_id": 22,
+    "article": "HPFP-EA837_30"
+  },
+  {
+    "model_id": 22,
+    "article": "HPFP-TDI_C7"
+  },
+  {
+    "model_id": 22,
+    "article": "INJ-EA837_30"
+  },
+  {
+    "model_id": 22,
+    "article": "INJ-TDI_C7"
+  },
+  {
+    "model_id": 22,
+    "article": "OIL-AUDI-5W30-1L"
+  },
+  {
+    "model_id": 22,
+    "article": "OIL-AUDI-5W30-5L"
+  },
+  {
+    "model_id": 22,
+    "article": "OIL-AUDI-5W40-1L"
+  },
+  {
+    "model_id": 22,
+    "article": "OIL-AUDI-5W40-5L"
+  },
+  {
+    "model_id": 22,
+    "article": "OILKIT-EA837_30"
+  },
+  {
+    "model_id": 22,
+    "article": "OILKIT-TDI_C7"
+  },
+  {
+    "model_id": 22,
+    "article": "PLUG-EA837_30"
+  },
+  {
+    "model_id": 22,
+    "article": "SC-EA837_30"
+  },
+  {
+    "model_id": 22,
+    "article": "TRB-TDI_C7"
+  },
+  {
+    "model_id": 23,
+    "article": "ABS-FL-A6C8"
+  },
+  {
+    "model_id": 23,
+    "article": "ABS-FR-A6C8"
+  },
+  {
+    "model_id": 23,
+    "article": "ABS-RL-A6C8"
+  },
+  {
+    "model_id": 23,
+    "article": "ABS-RR-A6C8"
+  },
+  {
+    "model_id": 23,
+    "article": "AFLT-EA839_30"
+  },
+  {
+    "model_id": 23,
+    "article": "AFLT-TDI_EVO"
+  },
+  {
+    "model_id": 23,
+    "article": "CAB-A6C8"
+  },
+  {
+    "model_id": 23,
+    "article": "CLP-FL-A6C8"
+  },
+  {
+    "model_id": 23,
+    "article": "CLP-FR-A6C8"
+  },
+  {
+    "model_id": 23,
+    "article": "CLP-RL-A6C8"
+  },
+  {
+    "model_id": 23,
+    "article": "CLP-RR-A6C8"
+  },
+  {
+    "model_id": 23,
+    "article": "COIL-EA839_30"
+  },
+  {
+    "model_id": 23,
+    "article": "COOL-AUDI-1_5L"
+  },
+  {
+    "model_id": 23,
+    "article": "COOL-AUDI-5L"
+  },
+  {
+    "model_id": 23,
+    "article": "DSK-F-A6C8"
+  },
+  {
+    "model_id": 23,
+    "article": "DSK-R-A6C8"
+  },
+  {
+    "model_id": 23,
+    "article": "ENG-EA839_30"
+  },
+  {
+    "model_id": 23,
+    "article": "ENG-TDI_EVO"
+  },
+  {
+    "model_id": 23,
+    "article": "EXH-CB-A6C8"
+  },
+  {
+    "model_id": 23,
+    "article": "EXH-DP-A6C8"
+  },
+  {
+    "model_id": 23,
+    "article": "EXH-FS-A6C8"
+  },
+  {
+    "model_id": 23,
+    "article": "FFLT-EA839_30"
+  },
+  {
+    "model_id": 23,
+    "article": "FFLT-TDI_EVO"
+  },
+  {
+    "model_id": 23,
+    "article": "FPMP-EA839_30"
+  },
+  {
+    "model_id": 23,
+    "article": "FPMP-TDI_EVO"
+  },
+  {
+    "model_id": 23,
+    "article": "GBX-A6C8"
+  },
+  {
+    "model_id": 23,
+    "article": "GOIL-AUDI_S7"
+  },
+  {
+    "model_id": 23,
+    "article": "HPFP-EA839_30"
+  },
+  {
+    "model_id": 23,
+    "article": "HPFP-TDI_EVO"
+  },
+  {
+    "model_id": 23,
+    "article": "INJ-EA839_30"
+  },
+  {
+    "model_id": 23,
+    "article": "INJ-TDI_EVO"
+  },
+  {
+    "model_id": 23,
+    "article": "OIL-AUDI-5W30-1L"
+  },
+  {
+    "model_id": 23,
+    "article": "OIL-AUDI-5W30-5L"
+  },
+  {
+    "model_id": 23,
+    "article": "OIL-AUDI-5W40-1L"
+  },
+  {
+    "model_id": 23,
+    "article": "OIL-AUDI-5W40-5L"
+  },
+  {
+    "model_id": 23,
+    "article": "OILKIT-EA839_30"
+  },
+  {
+    "model_id": 23,
+    "article": "OILKIT-TDI_EVO"
+  },
+  {
+    "model_id": 23,
+    "article": "PLUG-EA839_30"
+  },
+  {
+    "model_id": 23,
+    "article": "TRB-EA839_30"
+  },
+  {
+    "model_id": 23,
+    "article": "TRB-TDI_EVO"
+  },
+  {
+    "model_id": 24,
+    "article": "ABS-FL-A4B6"
+  },
+  {
+    "model_id": 24,
+    "article": "ABS-FR-A4B6"
+  },
+  {
+    "model_id": 24,
+    "article": "ABS-RL-A4B6"
+  },
+  {
+    "model_id": 24,
+    "article": "ABS-RR-A4B6"
+  },
+  {
+    "model_id": 24,
+    "article": "AFLT-ALT_20"
+  },
+  {
+    "model_id": 24,
+    "article": "AFLT-BEX_30"
+  },
+  {
+    "model_id": 24,
+    "article": "CAB-A4B6"
+  },
+  {
+    "model_id": 24,
+    "article": "CLP-FL-A4B6"
+  },
+  {
+    "model_id": 24,
+    "article": "CLP-FR-A4B6"
+  },
+  {
+    "model_id": 24,
+    "article": "CLP-RL-A4B6"
+  },
+  {
+    "model_id": 24,
+    "article": "CLP-RR-A4B6"
+  },
+  {
+    "model_id": 24,
+    "article": "COIL-ALT_20"
+  },
+  {
+    "model_id": 24,
+    "article": "COIL-BEX_30"
+  },
+  {
+    "model_id": 24,
+    "article": "COOL-AUDI-1_5L"
+  },
+  {
+    "model_id": 24,
+    "article": "COOL-AUDI-5L"
+  },
+  {
+    "model_id": 24,
+    "article": "DSK-F-A4B6"
+  },
+  {
+    "model_id": 24,
+    "article": "DSK-R-A4B6"
+  },
+  {
+    "model_id": 24,
+    "article": "ENG-ALT_20"
+  },
+  {
+    "model_id": 24,
+    "article": "ENG-BEX_30"
+  },
+  {
+    "model_id": 24,
+    "article": "EXH-CB-A4B6"
+  },
+  {
+    "model_id": 24,
+    "article": "EXH-FS-A4B6"
+  },
+  {
+    "model_id": 24,
+    "article": "FFLT-ALT_20"
+  },
+  {
+    "model_id": 24,
+    "article": "FFLT-BEX_30"
+  },
+  {
+    "model_id": 24,
+    "article": "FPMP-ALT_20"
+  },
+  {
+    "model_id": 24,
+    "article": "FPMP-BEX_30"
+  },
+  {
+    "model_id": 24,
+    "article": "GBX-A4B6"
+  },
+  {
+    "model_id": 24,
+    "article": "GOIL-AUDI_MT"
+  },
+  {
+    "model_id": 24,
+    "article": "INJ-ALT_20"
+  },
+  {
+    "model_id": 24,
+    "article": "INJ-BEX_30"
+  },
+  {
+    "model_id": 24,
+    "article": "OIL-AUDI-5W30-1L"
+  },
+  {
+    "model_id": 24,
+    "article": "OIL-AUDI-5W30-5L"
+  },
+  {
+    "model_id": 24,
+    "article": "OIL-AUDI-5W40-1L"
+  },
+  {
+    "model_id": 24,
+    "article": "OIL-AUDI-5W40-5L"
+  },
+  {
+    "model_id": 24,
+    "article": "OILKIT-ALT_20"
+  },
+  {
+    "model_id": 24,
+    "article": "OILKIT-BEX_30"
+  },
+  {
+    "model_id": 24,
+    "article": "PLUG-ALT_20"
+  },
+  {
+    "model_id": 24,
+    "article": "PLUG-BEX_30"
+  },
+  {
+    "model_id": 25,
+    "article": "ABS-FL-A4B7"
+  },
+  {
+    "model_id": 25,
+    "article": "ABS-FR-A4B7"
+  },
+  {
+    "model_id": 25,
+    "article": "ABS-RL-A4B7"
+  },
+  {
+    "model_id": 25,
+    "article": "ABS-RR-A4B7"
+  },
+  {
+    "model_id": 25,
+    "article": "AFLT-BGB_20"
+  },
+  {
+    "model_id": 25,
+    "article": "AFLT-BKH_32"
+  },
+  {
+    "model_id": 25,
+    "article": "CAB-A4B7"
+  },
+  {
+    "model_id": 25,
+    "article": "CLP-FL-A4B7"
+  },
+  {
+    "model_id": 25,
+    "article": "CLP-FR-A4B7"
+  },
+  {
+    "model_id": 25,
+    "article": "CLP-RL-A4B7"
+  },
+  {
+    "model_id": 25,
+    "article": "CLP-RR-A4B7"
+  },
+  {
+    "model_id": 25,
+    "article": "COIL-BGB_20"
+  },
+  {
+    "model_id": 25,
+    "article": "COIL-BKH_32"
+  },
+  {
+    "model_id": 25,
+    "article": "COOL-AUDI-1_5L"
+  },
+  {
+    "model_id": 25,
+    "article": "COOL-AUDI-5L"
+  },
+  {
+    "model_id": 25,
+    "article": "DSK-F-A4B7"
+  },
+  {
+    "model_id": 25,
+    "article": "DSK-R-A4B7"
+  },
+  {
+    "model_id": 25,
+    "article": "ENG-BGB_20"
+  },
+  {
+    "model_id": 25,
+    "article": "ENG-BKH_32"
+  },
+  {
+    "model_id": 25,
+    "article": "EXH-CB-A4B7"
+  },
+  {
+    "model_id": 25,
+    "article": "EXH-DP-A4B7"
+  },
+  {
+    "model_id": 25,
+    "article": "EXH-FS-A4B7"
+  },
+  {
+    "model_id": 25,
+    "article": "FFLT-BGB_20"
+  },
+  {
+    "model_id": 25,
+    "article": "FFLT-BKH_32"
+  },
+  {
+    "model_id": 25,
+    "article": "FPMP-BGB_20"
+  },
+  {
+    "model_id": 25,
+    "article": "FPMP-BKH_32"
+  },
+  {
+    "model_id": 25,
+    "article": "GBX-A4B7"
+  },
+  {
+    "model_id": 25,
+    "article": "GOIL-ZF6HP"
+  },
+  {
+    "model_id": 25,
+    "article": "HPFP-BGB_20"
+  },
+  {
+    "model_id": 25,
+    "article": "HPFP-BKH_32"
+  },
+  {
+    "model_id": 25,
+    "article": "INJ-BGB_20"
+  },
+  {
+    "model_id": 25,
+    "article": "INJ-BKH_32"
+  },
+  {
+    "model_id": 25,
+    "article": "OIL-AUDI-5W30-1L"
+  },
+  {
+    "model_id": 25,
+    "article": "OIL-AUDI-5W30-5L"
+  },
+  {
+    "model_id": 25,
+    "article": "OIL-AUDI-5W40-1L"
+  },
+  {
+    "model_id": 25,
+    "article": "OIL-AUDI-5W40-5L"
+  },
+  {
+    "model_id": 25,
+    "article": "OILKIT-BGB_20"
+  },
+  {
+    "model_id": 25,
+    "article": "OILKIT-BKH_32"
+  },
+  {
+    "model_id": 25,
+    "article": "PLUG-BGB_20"
+  },
+  {
+    "model_id": 25,
+    "article": "PLUG-BKH_32"
+  },
+  {
+    "model_id": 25,
+    "article": "TRB-BGB_20"
+  },
+  {
+    "model_id": 26,
+    "article": "ABS-FL-A4B8"
+  },
+  {
+    "model_id": 26,
+    "article": "ABS-FR-A4B8"
+  },
+  {
+    "model_id": 26,
+    "article": "ABS-RL-A4B8"
+  },
+  {
+    "model_id": 26,
+    "article": "ABS-RR-A4B8"
+  },
+  {
+    "model_id": 26,
+    "article": "AFLT-EA837_30"
+  },
+  {
+    "model_id": 26,
+    "article": "AFLT-EA888_G2"
+  },
+  {
+    "model_id": 26,
+    "article": "CAB-A4B8"
+  },
+  {
+    "model_id": 26,
+    "article": "CLP-FL-A4B8"
+  },
+  {
+    "model_id": 26,
+    "article": "CLP-FR-A4B8"
+  },
+  {
+    "model_id": 26,
+    "article": "CLP-RL-A4B8"
+  },
+  {
+    "model_id": 26,
+    "article": "CLP-RR-A4B8"
+  },
+  {
+    "model_id": 26,
+    "article": "COIL-EA837_30"
+  },
+  {
+    "model_id": 26,
+    "article": "COIL-EA888_G2"
+  },
+  {
+    "model_id": 26,
+    "article": "COOL-AUDI-1_5L"
+  },
+  {
+    "model_id": 26,
+    "article": "COOL-AUDI-5L"
+  },
+  {
+    "model_id": 26,
+    "article": "DSK-F-A4B8"
+  },
+  {
+    "model_id": 26,
+    "article": "DSK-R-A4B8"
+  },
+  {
+    "model_id": 26,
+    "article": "ENG-EA837_30"
+  },
+  {
+    "model_id": 26,
+    "article": "ENG-EA888_G2"
+  },
+  {
+    "model_id": 26,
+    "article": "EXH-CB-A4B8"
+  },
+  {
+    "model_id": 26,
+    "article": "EXH-DP-A4B8"
+  },
+  {
+    "model_id": 26,
+    "article": "EXH-FS-A4B8"
+  },
+  {
+    "model_id": 26,
+    "article": "FFLT-EA837_30"
+  },
+  {
+    "model_id": 26,
+    "article": "FFLT-EA888_G2"
+  },
+  {
+    "model_id": 26,
+    "article": "FPMP-EA837_30"
+  },
+  {
+    "model_id": 26,
+    "article": "FPMP-EA888_G2"
+  },
+  {
+    "model_id": 26,
+    "article": "GBX-A4B8"
+  },
+  {
+    "model_id": 26,
+    "article": "GOIL-AUDI_S7"
+  },
+  {
+    "model_id": 26,
+    "article": "HPFP-EA837_30"
+  },
+  {
+    "model_id": 26,
+    "article": "HPFP-EA888_G2"
+  },
+  {
+    "model_id": 26,
+    "article": "INJ-EA837_30"
+  },
+  {
+    "model_id": 26,
+    "article": "INJ-EA888_G2"
+  },
+  {
+    "model_id": 26,
+    "article": "OIL-AUDI-5W30-1L"
+  },
+  {
+    "model_id": 26,
+    "article": "OIL-AUDI-5W30-5L"
+  },
+  {
+    "model_id": 26,
+    "article": "OIL-AUDI-5W40-1L"
+  },
+  {
+    "model_id": 26,
+    "article": "OIL-AUDI-5W40-5L"
+  },
+  {
+    "model_id": 26,
+    "article": "OILKIT-EA837_30"
+  },
+  {
+    "model_id": 26,
+    "article": "OILKIT-EA888_G2"
+  },
+  {
+    "model_id": 26,
+    "article": "PLUG-EA837_30"
+  },
+  {
+    "model_id": 26,
+    "article": "PLUG-EA888_G2"
+  },
+  {
+    "model_id": 26,
+    "article": "SC-EA837_30"
+  },
+  {
+    "model_id": 26,
+    "article": "TRB-EA888_G2"
+  },
+  {
+    "model_id": 27,
+    "article": "ABS-FL-A4B9"
+  },
+  {
+    "model_id": 27,
+    "article": "ABS-FR-A4B9"
+  },
+  {
+    "model_id": 27,
+    "article": "ABS-RL-A4B9"
+  },
+  {
+    "model_id": 27,
+    "article": "ABS-RR-A4B9"
+  },
+  {
+    "model_id": 27,
+    "article": "AFLT-EA888_G3"
+  },
+  {
+    "model_id": 27,
+    "article": "AFLT-TDI_EVO"
+  },
+  {
+    "model_id": 27,
+    "article": "CAB-A4B9"
+  },
+  {
+    "model_id": 27,
+    "article": "CLP-FL-A4B9"
+  },
+  {
+    "model_id": 27,
+    "article": "CLP-FR-A4B9"
+  },
+  {
+    "model_id": 27,
+    "article": "CLP-RL-A4B9"
+  },
+  {
+    "model_id": 27,
+    "article": "CLP-RR-A4B9"
+  },
+  {
+    "model_id": 27,
+    "article": "COIL-EA888_G3"
+  },
+  {
+    "model_id": 27,
+    "article": "COOL-AUDI-1_5L"
+  },
+  {
+    "model_id": 27,
+    "article": "COOL-AUDI-5L"
+  },
+  {
+    "model_id": 27,
+    "article": "DSK-F-A4B9"
+  },
+  {
+    "model_id": 27,
+    "article": "DSK-R-A4B9"
+  },
+  {
+    "model_id": 27,
+    "article": "ENG-EA888_G3"
+  },
+  {
+    "model_id": 27,
+    "article": "ENG-TDI_EVO"
+  },
+  {
+    "model_id": 27,
+    "article": "EXH-CB-A4B9"
+  },
+  {
+    "model_id": 27,
+    "article": "EXH-DP-A4B9"
+  },
+  {
+    "model_id": 27,
+    "article": "EXH-FS-A4B9"
+  },
+  {
+    "model_id": 27,
+    "article": "FFLT-EA888_G3"
+  },
+  {
+    "model_id": 27,
+    "article": "FFLT-TDI_EVO"
+  },
+  {
+    "model_id": 27,
+    "article": "FPMP-EA888_G3"
+  },
+  {
+    "model_id": 27,
+    "article": "FPMP-TDI_EVO"
+  },
+  {
+    "model_id": 27,
+    "article": "GBX-A4B9"
+  },
+  {
+    "model_id": 27,
+    "article": "GOIL-AUDI_S7"
+  },
+  {
+    "model_id": 27,
+    "article": "HPFP-EA888_G3"
+  },
+  {
+    "model_id": 27,
+    "article": "HPFP-TDI_EVO"
+  },
+  {
+    "model_id": 27,
+    "article": "INJ-EA888_G3"
+  },
+  {
+    "model_id": 27,
+    "article": "INJ-TDI_EVO"
+  },
+  {
+    "model_id": 27,
+    "article": "OIL-AUDI-5W30-1L"
+  },
+  {
+    "model_id": 27,
+    "article": "OIL-AUDI-5W30-5L"
+  },
+  {
+    "model_id": 27,
+    "article": "OIL-AUDI-5W40-1L"
+  },
+  {
+    "model_id": 27,
+    "article": "OIL-AUDI-5W40-5L"
+  },
+  {
+    "model_id": 27,
+    "article": "OILKIT-EA888_G3"
+  },
+  {
+    "model_id": 27,
+    "article": "OILKIT-TDI_EVO"
+  },
+  {
+    "model_id": 27,
+    "article": "PLUG-EA888_G3"
+  },
+  {
+    "model_id": 27,
+    "article": "TRB-EA888_G3"
+  },
+  {
+    "model_id": 27,
+    "article": "TRB-TDI_EVO"
+  },
+  {
+    "model_id": 28,
+    "article": "ABS-FL-991CARR"
+  },
+  {
+    "model_id": 28,
+    "article": "ABS-FR-991CARR"
+  },
+  {
+    "model_id": 28,
+    "article": "ABS-RL-991CARR"
+  },
+  {
+    "model_id": 28,
+    "article": "ABS-RR-991CARR"
+  },
+  {
+    "model_id": 28,
+    "article": "AFLT-9A1_34"
+  },
+  {
+    "model_id": 28,
+    "article": "AFLT-9A2_30"
+  },
+  {
+    "model_id": 28,
+    "article": "CAB-991CARR"
+  },
+  {
+    "model_id": 28,
+    "article": "CLP-FL-991CARR"
+  },
+  {
+    "model_id": 28,
+    "article": "CLP-FR-991CARR"
+  },
+  {
+    "model_id": 28,
+    "article": "CLP-RL-991CARR"
+  },
+  {
+    "model_id": 28,
+    "article": "CLP-RR-991CARR"
+  },
+  {
+    "model_id": 28,
+    "article": "COIL-9A1_34"
+  },
+  {
+    "model_id": 28,
+    "article": "COIL-9A2_30"
+  },
+  {
+    "model_id": 28,
+    "article": "COOL-PORSCHE-1_5L"
+  },
+  {
+    "model_id": 28,
+    "article": "COOL-PORSCHE-5L"
+  },
+  {
+    "model_id": 28,
+    "article": "DSK-F-991CARR"
+  },
+  {
+    "model_id": 28,
+    "article": "DSK-F-CC-991CARR"
+  },
+  {
+    "model_id": 28,
+    "article": "DSK-R-991CARR"
+  },
+  {
+    "model_id": 28,
+    "article": "DSK-R-CC-991CARR"
+  },
+  {
+    "model_id": 28,
+    "article": "ENG-9A1_34"
+  },
+  {
+    "model_id": 28,
+    "article": "ENG-9A2_30"
+  },
+  {
+    "model_id": 28,
+    "article": "EXH-CB-991CARR"
+  },
+  {
+    "model_id": 28,
+    "article": "EXH-DP-991CARR"
+  },
+  {
+    "model_id": 28,
+    "article": "EXH-FS-991CARR"
+  },
+  {
+    "model_id": 28,
+    "article": "FFLT-9A1_34"
+  },
+  {
+    "model_id": 28,
+    "article": "FFLT-9A2_30"
+  },
+  {
+    "model_id": 28,
+    "article": "FPMP-9A1_34"
+  },
+  {
+    "model_id": 28,
+    "article": "FPMP-9A2_30"
+  },
+  {
+    "model_id": 28,
+    "article": "GBX-991CARR"
+  },
+  {
+    "model_id": 28,
+    "article": "GOIL-PDK"
+  },
+  {
+    "model_id": 28,
+    "article": "HPFP-9A1_34"
+  },
+  {
+    "model_id": 28,
+    "article": "HPFP-9A2_30"
+  },
+  {
+    "model_id": 28,
+    "article": "INJ-9A1_34"
+  },
+  {
+    "model_id": 28,
+    "article": "INJ-9A2_30"
+  },
+  {
+    "model_id": 28,
+    "article": "OIL-PORSCHE-0W40-1L"
+  },
+  {
+    "model_id": 28,
+    "article": "OIL-PORSCHE-0W40-5L"
+  },
+  {
+    "model_id": 28,
+    "article": "OIL-PORSCHE-5W40-1L"
+  },
+  {
+    "model_id": 28,
+    "article": "OIL-PORSCHE-5W40-5L"
+  },
+  {
+    "model_id": 28,
+    "article": "OILKIT-9A1_34"
+  },
+  {
+    "model_id": 28,
+    "article": "OILKIT-9A2_30"
+  },
+  {
+    "model_id": 28,
+    "article": "PLUG-9A1_34"
+  },
+  {
+    "model_id": 28,
+    "article": "PLUG-9A2_30"
+  },
+  {
+    "model_id": 28,
+    "article": "TRB-9A2_30"
+  },
+  {
+    "model_id": 29,
+    "article": "ABS-FL-991GTS"
+  },
+  {
+    "model_id": 29,
+    "article": "ABS-FR-991GTS"
+  },
+  {
+    "model_id": 29,
+    "article": "ABS-RL-991GTS"
+  },
+  {
+    "model_id": 29,
+    "article": "ABS-RR-991GTS"
+  },
+  {
+    "model_id": 29,
+    "article": "AFLT-9A1_38"
+  },
+  {
+    "model_id": 29,
+    "article": "AFLT-9A2_30"
+  },
+  {
+    "model_id": 29,
+    "article": "CAB-991GTS"
+  },
+  {
+    "model_id": 29,
+    "article": "CLP-FL-991GTS"
+  },
+  {
+    "model_id": 29,
+    "article": "CLP-FR-991GTS"
+  },
+  {
+    "model_id": 29,
+    "article": "CLP-RL-991GTS"
+  },
+  {
+    "model_id": 29,
+    "article": "CLP-RR-991GTS"
+  },
+  {
+    "model_id": 29,
+    "article": "COIL-9A1_38"
+  },
+  {
+    "model_id": 29,
+    "article": "COIL-9A2_30"
+  },
+  {
+    "model_id": 29,
+    "article": "COOL-PORSCHE-1_5L"
+  },
+  {
+    "model_id": 29,
+    "article": "COOL-PORSCHE-5L"
+  },
+  {
+    "model_id": 29,
+    "article": "DSK-F-991GTS"
+  },
+  {
+    "model_id": 29,
+    "article": "DSK-F-CC-991GTS"
+  },
+  {
+    "model_id": 29,
+    "article": "DSK-R-991GTS"
+  },
+  {
+    "model_id": 29,
+    "article": "DSK-R-CC-991GTS"
+  },
+  {
+    "model_id": 29,
+    "article": "ENG-9A1_38"
+  },
+  {
+    "model_id": 29,
+    "article": "ENG-9A2_30"
+  },
+  {
+    "model_id": 29,
+    "article": "EXH-CB-991GTS"
+  },
+  {
+    "model_id": 29,
+    "article": "EXH-DP-991GTS"
+  },
+  {
+    "model_id": 29,
+    "article": "EXH-FS-991GTS"
+  },
+  {
+    "model_id": 29,
+    "article": "FFLT-9A1_38"
+  },
+  {
+    "model_id": 29,
+    "article": "FFLT-9A2_30"
+  },
+  {
+    "model_id": 29,
+    "article": "FPMP-9A1_38"
+  },
+  {
+    "model_id": 29,
+    "article": "FPMP-9A2_30"
+  },
+  {
+    "model_id": 29,
+    "article": "GBX-991GTS"
+  },
+  {
+    "model_id": 29,
+    "article": "GOIL-PDK"
+  },
+  {
+    "model_id": 29,
+    "article": "HPFP-9A1_38"
+  },
+  {
+    "model_id": 29,
+    "article": "HPFP-9A2_30"
+  },
+  {
+    "model_id": 29,
+    "article": "INJ-9A1_38"
+  },
+  {
+    "model_id": 29,
+    "article": "INJ-9A2_30"
+  },
+  {
+    "model_id": 29,
+    "article": "OIL-PORSCHE-0W40-1L"
+  },
+  {
+    "model_id": 29,
+    "article": "OIL-PORSCHE-0W40-5L"
+  },
+  {
+    "model_id": 29,
+    "article": "OIL-PORSCHE-5W40-1L"
+  },
+  {
+    "model_id": 29,
+    "article": "OIL-PORSCHE-5W40-5L"
+  },
+  {
+    "model_id": 29,
+    "article": "OILKIT-9A1_38"
+  },
+  {
+    "model_id": 29,
+    "article": "OILKIT-9A2_30"
+  },
+  {
+    "model_id": 29,
+    "article": "PLUG-9A1_38"
+  },
+  {
+    "model_id": 29,
+    "article": "PLUG-9A2_30"
+  },
+  {
+    "model_id": 29,
+    "article": "TRB-9A2_30"
+  },
+  {
+    "model_id": 30,
+    "article": "ABS-FL-991TARGA"
+  },
+  {
+    "model_id": 30,
+    "article": "ABS-FR-991TARGA"
+  },
+  {
+    "model_id": 30,
+    "article": "ABS-RL-991TARGA"
+  },
+  {
+    "model_id": 30,
+    "article": "ABS-RR-991TARGA"
+  },
+  {
+    "model_id": 30,
+    "article": "AFLT-9A1_34"
+  },
+  {
+    "model_id": 30,
+    "article": "AFLT-9A2_30"
+  },
+  {
+    "model_id": 30,
+    "article": "CAB-991TARGA"
+  },
+  {
+    "model_id": 30,
+    "article": "CLP-FL-991TARGA"
+  },
+  {
+    "model_id": 30,
+    "article": "CLP-FR-991TARGA"
+  },
+  {
+    "model_id": 30,
+    "article": "CLP-RL-991TARGA"
+  },
+  {
+    "model_id": 30,
+    "article": "CLP-RR-991TARGA"
+  },
+  {
+    "model_id": 30,
+    "article": "COIL-9A1_34"
+  },
+  {
+    "model_id": 30,
+    "article": "COIL-9A2_30"
+  },
+  {
+    "model_id": 30,
+    "article": "COOL-PORSCHE-1_5L"
+  },
+  {
+    "model_id": 30,
+    "article": "COOL-PORSCHE-5L"
+  },
+  {
+    "model_id": 30,
+    "article": "DSK-F-991TARGA"
+  },
+  {
+    "model_id": 30,
+    "article": "DSK-F-CC-991TARGA"
+  },
+  {
+    "model_id": 30,
+    "article": "DSK-R-991TARGA"
+  },
+  {
+    "model_id": 30,
+    "article": "DSK-R-CC-991TARGA"
+  },
+  {
+    "model_id": 30,
+    "article": "ENG-9A1_34"
+  },
+  {
+    "model_id": 30,
+    "article": "ENG-9A2_30"
+  },
+  {
+    "model_id": 30,
+    "article": "EXH-CB-991TARGA"
+  },
+  {
+    "model_id": 30,
+    "article": "EXH-DP-991TARGA"
+  },
+  {
+    "model_id": 30,
+    "article": "EXH-FS-991TARGA"
+  },
+  {
+    "model_id": 30,
+    "article": "FFLT-9A1_34"
+  },
+  {
+    "model_id": 30,
+    "article": "FFLT-9A2_30"
+  },
+  {
+    "model_id": 30,
+    "article": "FPMP-9A1_34"
+  },
+  {
+    "model_id": 30,
+    "article": "FPMP-9A2_30"
+  },
+  {
+    "model_id": 30,
+    "article": "GBX-991TARGA"
+  },
+  {
+    "model_id": 30,
+    "article": "GOIL-PDK"
+  },
+  {
+    "model_id": 30,
+    "article": "HPFP-9A1_34"
+  },
+  {
+    "model_id": 30,
+    "article": "HPFP-9A2_30"
+  },
+  {
+    "model_id": 30,
+    "article": "INJ-9A1_34"
+  },
+  {
+    "model_id": 30,
+    "article": "INJ-9A2_30"
+  },
+  {
+    "model_id": 30,
+    "article": "OIL-PORSCHE-0W40-1L"
+  },
+  {
+    "model_id": 30,
+    "article": "OIL-PORSCHE-0W40-5L"
+  },
+  {
+    "model_id": 30,
+    "article": "OIL-PORSCHE-5W40-1L"
+  },
+  {
+    "model_id": 30,
+    "article": "OIL-PORSCHE-5W40-5L"
+  },
+  {
+    "model_id": 30,
+    "article": "OILKIT-9A1_34"
+  },
+  {
+    "model_id": 30,
+    "article": "OILKIT-9A2_30"
+  },
+  {
+    "model_id": 30,
+    "article": "PLUG-9A1_34"
+  },
+  {
+    "model_id": 30,
+    "article": "PLUG-9A2_30"
+  },
+  {
+    "model_id": 30,
+    "article": "TRB-9A2_30"
+  },
+  {
+    "model_id": 31,
+    "article": "ABS-FL-991TARGAS"
+  },
+  {
+    "model_id": 31,
+    "article": "ABS-FR-991TARGAS"
+  },
+  {
+    "model_id": 31,
+    "article": "ABS-RL-991TARGAS"
+  },
+  {
+    "model_id": 31,
+    "article": "ABS-RR-991TARGAS"
+  },
+  {
+    "model_id": 31,
+    "article": "AFLT-9A1_38"
+  },
+  {
+    "model_id": 31,
+    "article": "AFLT-9A2_30"
+  },
+  {
+    "model_id": 31,
+    "article": "CAB-991TARGAS"
+  },
+  {
+    "model_id": 31,
+    "article": "CLP-FL-991TARGAS"
+  },
+  {
+    "model_id": 31,
+    "article": "CLP-FR-991TARGAS"
+  },
+  {
+    "model_id": 31,
+    "article": "CLP-RL-991TARGAS"
+  },
+  {
+    "model_id": 31,
+    "article": "CLP-RR-991TARGAS"
+  },
+  {
+    "model_id": 31,
+    "article": "COIL-9A1_38"
+  },
+  {
+    "model_id": 31,
+    "article": "COIL-9A2_30"
+  },
+  {
+    "model_id": 31,
+    "article": "COOL-PORSCHE-1_5L"
+  },
+  {
+    "model_id": 31,
+    "article": "COOL-PORSCHE-5L"
+  },
+  {
+    "model_id": 31,
+    "article": "DSK-F-991TARGAS"
+  },
+  {
+    "model_id": 31,
+    "article": "DSK-F-CC-991TARGAS"
+  },
+  {
+    "model_id": 31,
+    "article": "DSK-R-991TARGAS"
+  },
+  {
+    "model_id": 31,
+    "article": "DSK-R-CC-991TARGAS"
+  },
+  {
+    "model_id": 31,
+    "article": "ENG-9A1_38"
+  },
+  {
+    "model_id": 31,
+    "article": "ENG-9A2_30"
+  },
+  {
+    "model_id": 31,
+    "article": "EXH-CB-991TARGAS"
+  },
+  {
+    "model_id": 31,
+    "article": "EXH-DP-991TARGAS"
+  },
+  {
+    "model_id": 31,
+    "article": "EXH-FS-991TARGAS"
+  },
+  {
+    "model_id": 31,
+    "article": "FFLT-9A1_38"
+  },
+  {
+    "model_id": 31,
+    "article": "FFLT-9A2_30"
+  },
+  {
+    "model_id": 31,
+    "article": "FPMP-9A1_38"
+  },
+  {
+    "model_id": 31,
+    "article": "FPMP-9A2_30"
+  },
+  {
+    "model_id": 31,
+    "article": "GBX-991TARGAS"
+  },
+  {
+    "model_id": 31,
+    "article": "GOIL-PDK"
+  },
+  {
+    "model_id": 31,
+    "article": "HPFP-9A1_38"
+  },
+  {
+    "model_id": 31,
+    "article": "HPFP-9A2_30"
+  },
+  {
+    "model_id": 31,
+    "article": "INJ-9A1_38"
+  },
+  {
+    "model_id": 31,
+    "article": "INJ-9A2_30"
+  },
+  {
+    "model_id": 31,
+    "article": "OIL-PORSCHE-0W40-1L"
+  },
+  {
+    "model_id": 31,
+    "article": "OIL-PORSCHE-0W40-5L"
+  },
+  {
+    "model_id": 31,
+    "article": "OIL-PORSCHE-5W40-1L"
+  },
+  {
+    "model_id": 31,
+    "article": "OIL-PORSCHE-5W40-5L"
+  },
+  {
+    "model_id": 31,
+    "article": "OILKIT-9A1_38"
+  },
+  {
+    "model_id": 31,
+    "article": "OILKIT-9A2_30"
+  },
+  {
+    "model_id": 31,
+    "article": "PLUG-9A1_38"
+  },
+  {
+    "model_id": 31,
+    "article": "PLUG-9A2_30"
+  },
+  {
+    "model_id": 31,
+    "article": "TRB-9A2_30"
+  },
+  {
+    "model_id": 32,
+    "article": "ABS-FL-991TURBOS"
+  },
+  {
+    "model_id": 32,
+    "article": "ABS-FR-991TURBOS"
+  },
+  {
+    "model_id": 32,
+    "article": "ABS-RL-991TURBOS"
+  },
+  {
+    "model_id": 32,
+    "article": "ABS-RR-991TURBOS"
+  },
+  {
+    "model_id": 32,
+    "article": "AFLT-9A1_38T"
+  },
+  {
+    "model_id": 32,
+    "article": "CAB-991TURBOS"
+  },
+  {
+    "model_id": 32,
+    "article": "CLP-FL-991TURBOS"
+  },
+  {
+    "model_id": 32,
+    "article": "CLP-FR-991TURBOS"
+  },
+  {
+    "model_id": 32,
+    "article": "CLP-RL-991TURBOS"
+  },
+  {
+    "model_id": 32,
+    "article": "CLP-RR-991TURBOS"
+  },
+  {
+    "model_id": 32,
+    "article": "COIL-9A1_38T"
+  },
+  {
+    "model_id": 32,
+    "article": "COOL-PORSCHE-1_5L"
+  },
+  {
+    "model_id": 32,
+    "article": "COOL-PORSCHE-5L"
+  },
+  {
+    "model_id": 32,
+    "article": "DSK-F-991TURBOS"
+  },
+  {
+    "model_id": 32,
+    "article": "DSK-F-CC-991TURBOS"
+  },
+  {
+    "model_id": 32,
+    "article": "DSK-R-991TURBOS"
+  },
+  {
+    "model_id": 32,
+    "article": "DSK-R-CC-991TURBOS"
+  },
+  {
+    "model_id": 32,
+    "article": "ENG-9A1_38T"
+  },
+  {
+    "model_id": 32,
+    "article": "EXH-CB-991TURBOS"
+  },
+  {
+    "model_id": 32,
+    "article": "EXH-DP-991TURBOS"
+  },
+  {
+    "model_id": 32,
+    "article": "EXH-FS-991TURBOS"
+  },
+  {
+    "model_id": 32,
+    "article": "FFLT-9A1_38T"
+  },
+  {
+    "model_id": 32,
+    "article": "FPMP-9A1_38T"
+  },
+  {
+    "model_id": 32,
+    "article": "GBX-991TURBOS"
+  },
+  {
+    "model_id": 32,
+    "article": "GOIL-PDK"
+  },
+  {
+    "model_id": 32,
+    "article": "HPFP-9A1_38T"
+  },
+  {
+    "model_id": 32,
+    "article": "INJ-9A1_38T"
+  },
+  {
+    "model_id": 32,
+    "article": "OIL-PORSCHE-0W40-1L"
+  },
+  {
+    "model_id": 32,
+    "article": "OIL-PORSCHE-0W40-5L"
+  },
+  {
+    "model_id": 32,
+    "article": "OIL-PORSCHE-5W40-1L"
+  },
+  {
+    "model_id": 32,
+    "article": "OIL-PORSCHE-5W40-5L"
+  },
+  {
+    "model_id": 32,
+    "article": "OILKIT-9A1_38T"
+  },
+  {
+    "model_id": 32,
+    "article": "PLUG-9A1_38T"
+  },
+  {
+    "model_id": 32,
+    "article": "TRB-9A1_38T"
+  },
+  {
+    "model_id": 33,
+    "article": "ABS-FL-991GT3RS"
+  },
+  {
+    "model_id": 33,
+    "article": "ABS-FR-991GT3RS"
+  },
+  {
+    "model_id": 33,
+    "article": "ABS-RL-991GT3RS"
+  },
+  {
+    "model_id": 33,
+    "article": "ABS-RR-991GT3RS"
+  },
+  {
+    "model_id": 33,
+    "article": "AFLT-9A1_40"
+  },
+  {
+    "model_id": 33,
+    "article": "CAB-991GT3RS"
+  },
+  {
+    "model_id": 33,
+    "article": "CLP-FL-991GT3RS"
+  },
+  {
+    "model_id": 33,
+    "article": "CLP-FR-991GT3RS"
+  },
+  {
+    "model_id": 33,
+    "article": "CLP-RL-991GT3RS"
+  },
+  {
+    "model_id": 33,
+    "article": "CLP-RR-991GT3RS"
+  },
+  {
+    "model_id": 33,
+    "article": "COIL-9A1_40"
+  },
+  {
+    "model_id": 33,
+    "article": "COOL-PORSCHE-1_5L"
+  },
+  {
+    "model_id": 33,
+    "article": "COOL-PORSCHE-5L"
+  },
+  {
+    "model_id": 33,
+    "article": "DSK-F-991GT3RS"
+  },
+  {
+    "model_id": 33,
+    "article": "DSK-F-CC-991GT3RS"
+  },
+  {
+    "model_id": 33,
+    "article": "DSK-R-991GT3RS"
+  },
+  {
+    "model_id": 33,
+    "article": "DSK-R-CC-991GT3RS"
+  },
+  {
+    "model_id": 33,
+    "article": "ENG-9A1_40"
+  },
+  {
+    "model_id": 33,
+    "article": "EXH-CB-991GT3RS"
+  },
+  {
+    "model_id": 33,
+    "article": "EXH-FS-991GT3RS"
+  },
+  {
+    "model_id": 33,
+    "article": "FFLT-9A1_40"
+  },
+  {
+    "model_id": 33,
+    "article": "FPMP-9A1_40"
+  },
+  {
+    "model_id": 33,
+    "article": "GBX-991GT3RS"
+  },
+  {
+    "model_id": 33,
+    "article": "GOIL-PDK"
+  },
+  {
+    "model_id": 33,
+    "article": "HPFP-9A1_40"
+  },
+  {
+    "model_id": 33,
+    "article": "INJ-9A1_40"
+  },
+  {
+    "model_id": 33,
+    "article": "OIL-PORSCHE-0W40-1L"
+  },
+  {
+    "model_id": 33,
+    "article": "OIL-PORSCHE-0W40-5L"
+  },
+  {
+    "model_id": 33,
+    "article": "OIL-PORSCHE-5W40-1L"
+  },
+  {
+    "model_id": 33,
+    "article": "OIL-PORSCHE-5W40-5L"
+  },
+  {
+    "model_id": 33,
+    "article": "OILKIT-9A1_40"
+  },
+  {
+    "model_id": 33,
+    "article": "PLUG-9A1_40"
+  },
+  {
+    "model_id": 34,
+    "article": "ABS-FL-991GT2RS"
+  },
+  {
+    "model_id": 34,
+    "article": "ABS-FR-991GT2RS"
+  },
+  {
+    "model_id": 34,
+    "article": "ABS-RL-991GT2RS"
+  },
+  {
+    "model_id": 34,
+    "article": "ABS-RR-991GT2RS"
+  },
+  {
+    "model_id": 34,
+    "article": "AFLT-9A1_38T"
+  },
+  {
+    "model_id": 34,
+    "article": "CAB-991GT2RS"
+  },
+  {
+    "model_id": 34,
+    "article": "CLP-FL-991GT2RS"
+  },
+  {
+    "model_id": 34,
+    "article": "CLP-FR-991GT2RS"
+  },
+  {
+    "model_id": 34,
+    "article": "CLP-RL-991GT2RS"
+  },
+  {
+    "model_id": 34,
+    "article": "CLP-RR-991GT2RS"
+  },
+  {
+    "model_id": 34,
+    "article": "COIL-9A1_38T"
+  },
+  {
+    "model_id": 34,
+    "article": "COOL-PORSCHE-1_5L"
+  },
+  {
+    "model_id": 34,
+    "article": "COOL-PORSCHE-5L"
+  },
+  {
+    "model_id": 34,
+    "article": "DSK-F-991GT2RS"
+  },
+  {
+    "model_id": 34,
+    "article": "DSK-F-CC-991GT2RS"
+  },
+  {
+    "model_id": 34,
+    "article": "DSK-R-991GT2RS"
+  },
+  {
+    "model_id": 34,
+    "article": "DSK-R-CC-991GT2RS"
+  },
+  {
+    "model_id": 34,
+    "article": "ENG-9A1_38T"
+  },
+  {
+    "model_id": 34,
+    "article": "EXH-CB-991GT2RS"
+  },
+  {
+    "model_id": 34,
+    "article": "EXH-DP-991GT2RS"
+  },
+  {
+    "model_id": 34,
+    "article": "EXH-FS-991GT2RS"
+  },
+  {
+    "model_id": 34,
+    "article": "FFLT-9A1_38T"
+  },
+  {
+    "model_id": 34,
+    "article": "FPMP-9A1_38T"
+  },
+  {
+    "model_id": 34,
+    "article": "GBX-991GT2RS"
+  },
+  {
+    "model_id": 34,
+    "article": "GOIL-PDK"
+  },
+  {
+    "model_id": 34,
+    "article": "HPFP-9A1_38T"
+  },
+  {
+    "model_id": 34,
+    "article": "INJ-9A1_38T"
+  },
+  {
+    "model_id": 34,
+    "article": "OIL-PORSCHE-0W40-1L"
+  },
+  {
+    "model_id": 34,
+    "article": "OIL-PORSCHE-0W40-5L"
+  },
+  {
+    "model_id": 34,
+    "article": "OIL-PORSCHE-5W40-1L"
+  },
+  {
+    "model_id": 34,
+    "article": "OIL-PORSCHE-5W40-5L"
+  },
+  {
+    "model_id": 34,
+    "article": "OILKIT-9A1_38T"
+  },
+  {
+    "model_id": 34,
+    "article": "PLUG-9A1_38T"
+  },
+  {
+    "model_id": 34,
+    "article": "TRB-9A1_38T"
+  },
+  {
+    "model_id": 35,
+    "article": "ABS-FL-992CARR"
+  },
+  {
+    "model_id": 35,
+    "article": "ABS-FR-992CARR"
+  },
+  {
+    "model_id": 35,
+    "article": "ABS-RL-992CARR"
+  },
+  {
+    "model_id": 35,
+    "article": "ABS-RR-992CARR"
+  },
+  {
+    "model_id": 35,
+    "article": "AFLT-9A2EVO_30"
+  },
+  {
+    "model_id": 35,
+    "article": "CAB-992CARR"
+  },
+  {
+    "model_id": 35,
+    "article": "CLP-FL-992CARR"
+  },
+  {
+    "model_id": 35,
+    "article": "CLP-FR-992CARR"
+  },
+  {
+    "model_id": 35,
+    "article": "CLP-RL-992CARR"
+  },
+  {
+    "model_id": 35,
+    "article": "CLP-RR-992CARR"
+  },
+  {
+    "model_id": 35,
+    "article": "COIL-9A2EVO_30"
+  },
+  {
+    "model_id": 35,
+    "article": "COOL-PORSCHE-1_5L"
+  },
+  {
+    "model_id": 35,
+    "article": "COOL-PORSCHE-5L"
+  },
+  {
+    "model_id": 35,
+    "article": "DSK-F-992CARR"
+  },
+  {
+    "model_id": 35,
+    "article": "DSK-F-CC-992CARR"
+  },
+  {
+    "model_id": 35,
+    "article": "DSK-R-992CARR"
+  },
+  {
+    "model_id": 35,
+    "article": "DSK-R-CC-992CARR"
+  },
+  {
+    "model_id": 35,
+    "article": "ENG-9A2EVO_30"
+  },
+  {
+    "model_id": 35,
+    "article": "EXH-CB-992CARR"
+  },
+  {
+    "model_id": 35,
+    "article": "EXH-DP-992CARR"
+  },
+  {
+    "model_id": 35,
+    "article": "EXH-FS-992CARR"
+  },
+  {
+    "model_id": 35,
+    "article": "FFLT-9A2EVO_30"
+  },
+  {
+    "model_id": 35,
+    "article": "FPMP-9A2EVO_30"
+  },
+  {
+    "model_id": 35,
+    "article": "GBX-992CARR"
+  },
+  {
+    "model_id": 35,
+    "article": "GOIL-PDK"
+  },
+  {
+    "model_id": 35,
+    "article": "HPFP-9A2EVO_30"
+  },
+  {
+    "model_id": 35,
+    "article": "INJ-9A2EVO_30"
+  },
+  {
+    "model_id": 35,
+    "article": "OIL-PORSCHE-0W40-1L"
+  },
+  {
+    "model_id": 35,
+    "article": "OIL-PORSCHE-0W40-5L"
+  },
+  {
+    "model_id": 35,
+    "article": "OIL-PORSCHE-5W40-1L"
+  },
+  {
+    "model_id": 35,
+    "article": "OIL-PORSCHE-5W40-5L"
+  },
+  {
+    "model_id": 35,
+    "article": "OILKIT-9A2EVO_30"
+  },
+  {
+    "model_id": 35,
+    "article": "PLUG-9A2EVO_30"
+  },
+  {
+    "model_id": 35,
+    "article": "TRB-9A2EVO_30"
+  },
+  {
+    "model_id": 36,
+    "article": "ABS-FL-992TARGA"
+  },
+  {
+    "model_id": 36,
+    "article": "ABS-FR-992TARGA"
+  },
+  {
+    "model_id": 36,
+    "article": "ABS-RL-992TARGA"
+  },
+  {
+    "model_id": 36,
+    "article": "ABS-RR-992TARGA"
+  },
+  {
+    "model_id": 36,
+    "article": "AFLT-9A2EVO_30"
+  },
+  {
+    "model_id": 36,
+    "article": "CAB-992TARGA"
+  },
+  {
+    "model_id": 36,
+    "article": "CLP-FL-992TARGA"
+  },
+  {
+    "model_id": 36,
+    "article": "CLP-FR-992TARGA"
+  },
+  {
+    "model_id": 36,
+    "article": "CLP-RL-992TARGA"
+  },
+  {
+    "model_id": 36,
+    "article": "CLP-RR-992TARGA"
+  },
+  {
+    "model_id": 36,
+    "article": "COIL-9A2EVO_30"
+  },
+  {
+    "model_id": 36,
+    "article": "COOL-PORSCHE-1_5L"
+  },
+  {
+    "model_id": 36,
+    "article": "COOL-PORSCHE-5L"
+  },
+  {
+    "model_id": 36,
+    "article": "DSK-F-992TARGA"
+  },
+  {
+    "model_id": 36,
+    "article": "DSK-F-CC-992TARGA"
+  },
+  {
+    "model_id": 36,
+    "article": "DSK-R-992TARGA"
+  },
+  {
+    "model_id": 36,
+    "article": "DSK-R-CC-992TARGA"
+  },
+  {
+    "model_id": 36,
+    "article": "ENG-9A2EVO_30"
+  },
+  {
+    "model_id": 36,
+    "article": "EXH-CB-992TARGA"
+  },
+  {
+    "model_id": 36,
+    "article": "EXH-DP-992TARGA"
+  },
+  {
+    "model_id": 36,
+    "article": "EXH-FS-992TARGA"
+  },
+  {
+    "model_id": 36,
+    "article": "FFLT-9A2EVO_30"
+  },
+  {
+    "model_id": 36,
+    "article": "FPMP-9A2EVO_30"
+  },
+  {
+    "model_id": 36,
+    "article": "GBX-992TARGA"
+  },
+  {
+    "model_id": 36,
+    "article": "GOIL-PDK"
+  },
+  {
+    "model_id": 36,
+    "article": "HPFP-9A2EVO_30"
+  },
+  {
+    "model_id": 36,
+    "article": "INJ-9A2EVO_30"
+  },
+  {
+    "model_id": 36,
+    "article": "OIL-PORSCHE-0W40-1L"
+  },
+  {
+    "model_id": 36,
+    "article": "OIL-PORSCHE-0W40-5L"
+  },
+  {
+    "model_id": 36,
+    "article": "OIL-PORSCHE-5W40-1L"
+  },
+  {
+    "model_id": 36,
+    "article": "OIL-PORSCHE-5W40-5L"
+  },
+  {
+    "model_id": 36,
+    "article": "OILKIT-9A2EVO_30"
+  },
+  {
+    "model_id": 36,
+    "article": "PLUG-9A2EVO_30"
+  },
+  {
+    "model_id": 36,
+    "article": "TRB-9A2EVO_30"
+  },
+  {
+    "model_id": 37,
+    "article": "ABS-FL-992TURBOS"
+  },
+  {
+    "model_id": 37,
+    "article": "ABS-FR-992TURBOS"
+  },
+  {
+    "model_id": 37,
+    "article": "ABS-RL-992TURBOS"
+  },
+  {
+    "model_id": 37,
+    "article": "ABS-RR-992TURBOS"
+  },
+  {
+    "model_id": 37,
+    "article": "AFLT-9A2_37T"
+  },
+  {
+    "model_id": 37,
+    "article": "CAB-992TURBOS"
+  },
+  {
+    "model_id": 37,
+    "article": "CLP-FL-992TURBOS"
+  },
+  {
+    "model_id": 37,
+    "article": "CLP-FR-992TURBOS"
+  },
+  {
+    "model_id": 37,
+    "article": "CLP-RL-992TURBOS"
+  },
+  {
+    "model_id": 37,
+    "article": "CLP-RR-992TURBOS"
+  },
+  {
+    "model_id": 37,
+    "article": "COIL-9A2_37T"
+  },
+  {
+    "model_id": 37,
+    "article": "COOL-PORSCHE-1_5L"
+  },
+  {
+    "model_id": 37,
+    "article": "COOL-PORSCHE-5L"
+  },
+  {
+    "model_id": 37,
+    "article": "DSK-F-992TURBOS"
+  },
+  {
+    "model_id": 37,
+    "article": "DSK-F-CC-992TURBOS"
+  },
+  {
+    "model_id": 37,
+    "article": "DSK-R-992TURBOS"
+  },
+  {
+    "model_id": 37,
+    "article": "DSK-R-CC-992TURBOS"
+  },
+  {
+    "model_id": 37,
+    "article": "ENG-9A2_37T"
+  },
+  {
+    "model_id": 37,
+    "article": "EXH-CB-992TURBOS"
+  },
+  {
+    "model_id": 37,
+    "article": "EXH-DP-992TURBOS"
+  },
+  {
+    "model_id": 37,
+    "article": "EXH-FS-992TURBOS"
+  },
+  {
+    "model_id": 37,
+    "article": "FFLT-9A2_37T"
+  },
+  {
+    "model_id": 37,
+    "article": "FPMP-9A2_37T"
+  },
+  {
+    "model_id": 37,
+    "article": "GBX-992TURBOS"
+  },
+  {
+    "model_id": 37,
+    "article": "GOIL-PDK"
+  },
+  {
+    "model_id": 37,
+    "article": "HPFP-9A2_37T"
+  },
+  {
+    "model_id": 37,
+    "article": "INJ-9A2_37T"
+  },
+  {
+    "model_id": 37,
+    "article": "OIL-PORSCHE-0W40-1L"
+  },
+  {
+    "model_id": 37,
+    "article": "OIL-PORSCHE-0W40-5L"
+  },
+  {
+    "model_id": 37,
+    "article": "OIL-PORSCHE-5W40-1L"
+  },
+  {
+    "model_id": 37,
+    "article": "OIL-PORSCHE-5W40-5L"
+  },
+  {
+    "model_id": 37,
+    "article": "OILKIT-9A2_37T"
+  },
+  {
+    "model_id": 37,
+    "article": "PLUG-9A2_37T"
+  },
+  {
+    "model_id": 37,
+    "article": "TRB-9A2_37T"
+  },
+  {
+    "model_id": 38,
+    "article": "ABS-FL-992GT3RS"
+  },
+  {
+    "model_id": 38,
+    "article": "ABS-FR-992GT3RS"
+  },
+  {
+    "model_id": 38,
+    "article": "ABS-RL-992GT3RS"
+  },
+  {
+    "model_id": 38,
+    "article": "ABS-RR-992GT3RS"
+  },
+  {
+    "model_id": 38,
+    "article": "AFLT-M97_40"
+  },
+  {
+    "model_id": 38,
+    "article": "CAB-992GT3RS"
+  },
+  {
+    "model_id": 38,
+    "article": "CLP-FL-992GT3RS"
+  },
+  {
+    "model_id": 38,
+    "article": "CLP-FR-992GT3RS"
+  },
+  {
+    "model_id": 38,
+    "article": "CLP-RL-992GT3RS"
+  },
+  {
+    "model_id": 38,
+    "article": "CLP-RR-992GT3RS"
+  },
+  {
+    "model_id": 38,
+    "article": "COIL-M97_40"
+  },
+  {
+    "model_id": 38,
+    "article": "COOL-PORSCHE-1_5L"
+  },
+  {
+    "model_id": 38,
+    "article": "COOL-PORSCHE-5L"
+  },
+  {
+    "model_id": 38,
+    "article": "DSK-F-992GT3RS"
+  },
+  {
+    "model_id": 38,
+    "article": "DSK-F-CC-992GT3RS"
+  },
+  {
+    "model_id": 38,
+    "article": "DSK-R-992GT3RS"
+  },
+  {
+    "model_id": 38,
+    "article": "DSK-R-CC-992GT3RS"
+  },
+  {
+    "model_id": 38,
+    "article": "ENG-M97_40"
+  },
+  {
+    "model_id": 38,
+    "article": "EXH-CB-992GT3RS"
+  },
+  {
+    "model_id": 38,
+    "article": "EXH-FS-992GT3RS"
+  },
+  {
+    "model_id": 38,
+    "article": "FFLT-M97_40"
+  },
+  {
+    "model_id": 38,
+    "article": "FPMP-M97_40"
+  },
+  {
+    "model_id": 38,
+    "article": "GBX-992GT3RS"
+  },
+  {
+    "model_id": 38,
+    "article": "GOIL-PDK"
+  },
+  {
+    "model_id": 38,
+    "article": "HPFP-M97_40"
+  },
+  {
+    "model_id": 38,
+    "article": "INJ-M97_40"
+  },
+  {
+    "model_id": 38,
+    "article": "OIL-PORSCHE-0W40-1L"
+  },
+  {
+    "model_id": 38,
+    "article": "OIL-PORSCHE-0W40-5L"
+  },
+  {
+    "model_id": 38,
+    "article": "OIL-PORSCHE-5W40-1L"
+  },
+  {
+    "model_id": 38,
+    "article": "OIL-PORSCHE-5W40-5L"
+  },
+  {
+    "model_id": 38,
+    "article": "OILKIT-M97_40"
+  },
+  {
+    "model_id": 38,
+    "article": "PLUG-M97_40"
+  }
+]

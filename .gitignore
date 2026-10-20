@@ -6,8 +6,6 @@
 .metadata/
 credentials-config.json
 
-backups/*
-!backups/.gitkeep
 
 # Python
 __pycache__/

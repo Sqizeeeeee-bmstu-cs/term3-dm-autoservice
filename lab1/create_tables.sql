@@ -16,37 +16,33 @@ DROP TABLE IF EXISTS Administrator;
 
 -- Administrator
 CREATE TABLE Administrator (
-    admin_id INTEGER NOT NULL,
+    admin_id INTEGER NOT NULL CONSTRAINT Administrator_PK PRIMARY KEY AUTOINCREMENT,
     last_name TEXT NOT NULL,
     first_name TEXT NOT NULL,
-    middle_name TEXT,
-    CONSTRAINT Administrator_PK PRIMARY KEY (admin_id)
+    middle_name TEXT
 );
 
 -- Master
 CREATE TABLE Master (
-    master_id INTEGER NOT NULL,
+    master_id INTEGER NOT NULL CONSTRAINT Master_PK PRIMARY KEY AUTOINCREMENT,
     last_name TEXT NOT NULL,
     first_name TEXT NOT NULL,
-    middle_name TEXT,
-    CONSTRAINT Master_PK PRIMARY KEY (master_id)
+    middle_name TEXT
 );
 
 -- Service
 CREATE TABLE Service (
-    service_id INTEGER NOT NULL,
+    service_id INTEGER NOT NULL CONSTRAINT Service_PK PRIMARY KEY AUTOINCREMENT,
     name TEXT NOT NULL,
-    price REAL NOT NULL CHECK (price >= 0),
-    CONSTRAINT Service_PK PRIMARY KEY (service_id)
+    price REAL NOT NULL CHECK (price >= 0)
 );
 
 -- Client
 CREATE TABLE Client (
-    client_id INTEGER NOT NULL,
+    client_id INTEGER NOT NULL CONSTRAINT Client_PK PRIMARY KEY AUTOINCREMENT,
     last_name TEXT NOT NULL,
     first_name TEXT NOT NULL,
-    middle_name TEXT,
-    CONSTRAINT Client_PK PRIMARY KEY (client_id)
+    middle_name TEXT
 );
 
 -- Client_Phone
@@ -62,10 +58,9 @@ CREATE TABLE Client_Phone (
 
 -- Model
 CREATE TABLE Model (
-    model_id INTEGER NOT NULL,
+    model_id INTEGER NOT NULL CONSTRAINT Model_PK PRIMARY KEY AUTOINCREMENT,
     brand TEXT NOT NULL,
     model_name TEXT NOT NULL,
-    CONSTRAINT Model_PK PRIMARY KEY (model_id),
     CONSTRAINT Model_UQ UNIQUE (brand, model_name)
 );
 
@@ -113,7 +108,7 @@ CREATE TABLE Model_Part_Compatibility (
 
 -- Work_Order
 CREATE TABLE Work_Order (
-    order_number INTEGER NOT NULL,
+    order_number INTEGER NOT NULL CONSTRAINT Work_Order_PK PRIMARY KEY AUTOINCREMENT,
     vin TEXT NOT NULL,
     admin_id INTEGER NOT NULL,
     master_id INTEGER NOT NULL,
@@ -123,7 +118,6 @@ CREATE TABLE Work_Order (
     planned_date TEXT,
     end_date TEXT,
     malfunction TEXT,
-    CONSTRAINT Work_Order_PK PRIMARY KEY (order_number),
     CONSTRAINT Work_Order_Dates_CK CHECK (
         (planned_date IS NULL OR planned_date >= start_date)
         AND (end_date IS NULL OR end_date >= start_date)
@@ -144,12 +138,11 @@ CREATE TABLE Work_Order (
 
 -- Status_Change
 CREATE TABLE Status_Change (
-    change_id INTEGER NOT NULL,
+    change_id INTEGER NOT NULL CONSTRAINT Status_Change_PK PRIMARY KEY AUTOINCREMENT,
     order_number INTEGER NOT NULL,
     status TEXT NOT NULL
         CHECK (status IN ('в работе', 'ожидает запчасти', 'готов', 'выдан', 'отменён')),
     changed_at TEXT NOT NULL DEFAULT (datetime('now')),
-    CONSTRAINT Status_Change_PK PRIMARY KEY (change_id),
     CONSTRAINT Status_Change_Order_FK FOREIGN KEY (order_number)
         REFERENCES Work_Order (order_number)
         ON DELETE CASCADE

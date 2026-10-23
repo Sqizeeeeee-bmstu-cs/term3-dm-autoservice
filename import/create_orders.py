@@ -34,7 +34,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from create_catalog import ENGINES  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
-DATA_DIR = ROOT / "data"
+DATA_DIR = ROOT / "data_import"
 SEED = 42
 DEFAULT_END_DATE = "2026-10-14"
 

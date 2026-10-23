@@ -29,7 +29,7 @@ from create_catalog import MODELS  # noqa: E402
 from create_staff import FEMALE_NAMES, MALE_NAMES, PATRONYMICS  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
-DATA_DIR = ROOT / "data"
+DATA_DIR = ROOT / "data_import"
 SEED = 42
 
 MALE_SHARE = 0.7  # доля мужчин среди клиентов

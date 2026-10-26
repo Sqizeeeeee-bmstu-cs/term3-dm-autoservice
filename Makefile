@@ -32,25 +32,25 @@ all:
 # Форматы выбраны так, чтобы использовались оба: CSV для плоских таблиц,
 # JSON для части остальных. Меняй --format / --*-format, если нужно по-другому.
 data:
-	$(PYTHON) import/create_catalog.py  --seed $(SEED) --format csv --compat-format json
-	$(PYTHON) import/create_services.py --seed $(SEED) --format csv
-	$(PYTHON) import/create_staff.py    --seed $(SEED) --format csv --admin-format json
-	$(PYTHON) import/create_clients.py  --seed $(SEED) --format csv --phone-format csv --auto-format json
-	$(PYTHON) import/create_orders.py   --seed $(SEED) --orders $(ORDERS) --format csv --pp-format json --sc-format json
+	$(PYTHON) io/create_catalog.py  --seed $(SEED) --format csv --compat-format json
+	$(PYTHON) io/create_services.py --seed $(SEED) --format csv
+	$(PYTHON) io/create_staff.py    --seed $(SEED) --format csv --admin-format json
+	$(PYTHON) io/create_clients.py  --seed $(SEED) --format csv --phone-format csv --auto-format json
+	$(PYTHON) io/create_orders.py   --seed $(SEED) --orders $(ORDERS) --format csv --pp-format json --sc-format json
 
 db:
-	$(PYTHON) import/init_db.py --db $(DB) --schema $(SCHEMA)
+	$(PYTHON) io/init_db.py --db $(DB) --schema $(SCHEMA)
 
 # Для каждой таблицы берётся существующий файл data/<имя>.csv или data/<имя>.json
 load:
 	@for t in $(LOAD_ORDER); do \
 		f=$$(ls data/$$t.csv data/$$t.json 2>/dev/null | head -n 1); \
 		if [ -z "$$f" ]; then echo "Нет файла data/$$t.csv|json, сначала make data"; exit 1; fi; \
-		$(PYTHON) import/import.py --file $$f --db $(DB) || exit 1; \
+		$(PYTHON) io/import.py --file $$f --db $(DB) || exit 1; \
 	done
 
 stats:
-	@$(PYTHON) import/init_db.py --stats --db $(DB)
+	@$(PYTHON) io/init_db.py --stats --db $(DB)
 
 # Удаляем и csv, и json: иначе после смены формата останутся устаревшие файлы
 clean-data:
